@@ -1,4 +1,4 @@
-# Guía para Entrevistas en Desarrollo de Software
+# Guía para Entrevistas en Software
 
 ## Tabla de Contenidos
 - [Introducción](#introducción)
