@@ -68,8 +68,14 @@ El proceso de entrevistas puede dividirse en cuatro secciones principales:
 - Cuénteme una ocasión en la que haya fracasado.
 
 ## Desafío Técnico
-(Lista de recursos y sugerencias para prepararse para el desafío técnico).
-
+    - **Probablemente un Proyecto o Pair Programming**
+    
+    Si es el caso de una entrevista codeando, te dejo algunos recursos:
+    
+    - [https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/)
+    - **Puedes practicar en: [LeetCode](https://leetcode.com/explore/) - [Codewars](https://www.codewars.com/) - [Hackerrank](https://www.hackerrank.com/) - [EditorJS](https://www.programiz.com/javascript/online-compiler/?utm_source=compiler-output-popup&utm_campaign=programiz&utm_medium=referral)**
+    - Canales de Youtube sobre estructura de datos: [Sahil](https://www.youtube.com/watch?v=s2mYsPWzLjg&t=4s&ab_channel=Sahil%26Sarra) - [NeetCode](https://www.youtube.com/watch?v=ft0owvS5tQA&ab_channel=NeetCode)
+    
 ## Entrevista Técnica
 ### Manual Testing + QA Behavioural
 #### Manual
