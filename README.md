@@ -1,18 +1,21 @@
 # Guía para Entrevistas en Software 🚀
 
-## Tabla de Contenidos 📑
-- [Introducción](#introducción) 🌟
-- [Proceso de Entrevistas](#proceso-de-entrevistas) 📋
-  - [RRHH Interview](#rrhh-interview) 👥
-  - [Desafío Técnico](#desafío-técnico) 💻
-  - [Entrevista Técnica](#entrevista-técnica)  🛠️
-  - [Entrevista de Comportamiento](#entrevista-de-comportamiento) 🗣️
-- [Preguntas Frecuentes en Entrevistas](#preguntas-frecuentes-en-entrevistas)
-  - [Motivación](#motivación) 💡
-  - [Personal](#personal) 🤷
-  - [Comportamiento](#comportamiento)  🎭
-- [Consejos para Entrevistas](#consejos-para-entrevistas)  📝
-- [Recursos y Enlaces Útiles](#recursos-y-enlaces-útiles)  🔗
+| Contenido                                               | Propósito                                                                                       |
+|---------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| [Introducción](#introducción) 🌟                        | Proporciona un resumen del documento y establece las expectativas.                              |
+| [Proceso de Entrevistas](#proceso-de-entrevistas) 📋    | Explica las diferentes etapas del proceso de entrevistas y qué esperar en cada una.            |
+| - [RRHH Interview](#rrhh-interview) 👥                  | Describe la entrevista inicial con Recursos Humanos para conocer al candidato y verificar su información de currículum. |
+| - [Desafío Técnico](#desafío-técnico) 💻                | Detalla el desafío técnico para evaluar las habilidades prácticas de codificación y resolución de problemas del candidato. |
+| - [Entrevista Técnica](#entrevista-técnica) 🛠️          | Explica la entrevista centrada en conocimientos técnicos específicos, experiencia y cómo el candidato aborda problemas técnicos. |
+| - [Entrevista de Comportamiento](#entrevista-de-comportamiento) 🗣️ | Examina la adaptabilidad del candidato, comportamiento y si sus valores coinciden con los de la empresa. |
+| [Preguntas Frecuentes en Entrevistas](#preguntas-frecuentes-en-entrevistas) | Lista preguntas comunes hechas por entrevistadores para preparar mejor al candidato.            |
+| - [Motivación](#motivación) 💡                          | Se enfoca en entender las razones del candidato para aplicar y sus aspiraciones a largo plazo.  |
+| - [Personal](#personal) 🤷                              | Aborda preguntas sobre la personalidad, experiencias y antecedentes del candidato.              |
+| - [Comportamiento](#comportamiento) 🎭                  | Evalúa cómo el candidato ha manejado situaciones pasadas para prever su comportamiento futuro.  |
+| [Consejos para Entrevistas](#consejos-para-entrevistas)  📝 | Ofrece sugerencias y estrategias para tener éxito en las entrevistas.                           |
+| [Recursos y Enlaces Útiles](#recursos-y-enlaces-útiles)  🔗 | Proporciona enlaces a recursos adicionales para preparación de entrevistas y desarrollo profesional. |
+
+
 
 ## Introducción
 Es necesario comprender que cada entrevista tiene su alcance y propósito específico. Estar preparado práctica, mental y teóricamente es clave para superar el proceso de entrevista.
@@ -29,45 +32,50 @@ El proceso de entrevistas puede dividirse en cuatro secciones principales:
 
 ## RRHH Interview
 ### Mis preguntas al entrevistador:
-- ¿Cómo es el proceso?
-- ¿Cómo está integrado el equipo?
-- ¿Cómo sería el candidato ideal?
-- ¿Cómo puedo tener éxito en este puesto?
-- ¿Cómo describiría el trabajo diario?
-- ¿Qué crecimiento tiene este rol, hay un path de carrera?
-- ¿Cuáles son las skills más importantes para tener éxito en este puesto?
-- ¿Puede darme más información sobre las áreas en las que se centran las entrevistas?
+| Pregunta                                                                                       |
+|------------------------------------------------------------------------------------------------|
+| ¿Cómo es el proceso?                                                                           |
+| ¿Cómo está integrado el equipo?                                                                |
+| ¿Cómo sería el candidato ideal?                                                                |
+| ¿Cómo puedo tener éxito en este puesto?                                                        |
+| ¿Cómo describiría el trabajo diario?                                                           |
+| ¿Qué crecimiento tiene este rol, hay un path de carrera?                                       |
+| ¿Cuáles son las skills más importantes para tener éxito en este puesto?                        |
+| ¿Puede darme más información sobre las áreas en las que se centran las entrevistas?            |
 
-### Preguntas que normalmente hace el entrevistador:
-#### Motivación
-- ¿Por qué nuestra empresa?
-- ¿Por qué quiere este trabajo?
-- ¿Dónde te ves dentro de 5 años?
-- ¿Por qué deberíamos contratarte?
-- ¿Qué le motiva?
-- ¿Por qué deja su puesto actual?
-- ¿Qué buscas en tu próximo puesto?
 
-#### Personal
-- Háblame de vos (céntrate en lo que le interesa al entrevistador).
-- Hábleme de su experiencia profesional.
-- ¿Podría describir lo que hace en su trabajo actual con un poco más de profundidad?
-- Me gustaría saber si tiene experiencia trabajando con profesionales de USA.
-- Hábleme de sus puntos fuertes y débiles.
-- Cuéntame algo sobre ti que no aparezca en tu currículum.
-- Háblame de tus aficiones.
-- ¿Cuál es la parte favorita de su trabajo?
 
-#### Comportamiento
-- Cuéntame una ocasión en la que no cumpliste un plazo.
-- Hábleme de una ocasión en la que tuvo que dar un feedback difícil.
-- Describa un conflicto que haya tenido en el trabajo.
-- ¿Cómo maneja el estrés?
-- ¿Cuándo fue la última vez que tuvo un conflicto con un compañero y cómo lo resolvió?
-- ¿Cómo crees que puedes trabajar bajo presión?
-- Cuénteme alguna vez que haya tenido que dar un feedback difícil.
-- Hábleme de una ocasión en la que recibió un feedback constructivo.
-- Cuénteme una ocasión en la que haya fracasado.
+### Preguntas del entrevistador:
+| Categoría          | Pregunta                                                                                     |
+|--------------------|----------------------------------------------------------------------------------------------|
+| **Motivación**     | - ¿Por qué nuestra empresa?                                                                  |
+|                    | - ¿Por qué quiere este trabajo?                                                              |
+|                    | - ¿Dónde te ves dentro de 5 años?                                                            |
+|                    | - ¿Por qué deberíamos contratarte?                                                           |
+|                    | - ¿Qué le motiva?                                                                            |
+|                    | - ¿Por qué deja su puesto actual?                                                            |
+|                    | - ¿Qué buscas en tu próximo puesto?                                                          |
+|                    |                                                                                              |
+| **Personal**       | - Háblame de vos (céntrate en lo que le interesa al entrevistador).                          |
+|                    | - Hábleme de su experiencia profesional.                                                      |
+|                    | - ¿Podría describir lo que hace en su trabajo actual con un poco más de profundidad?         |
+|                    | - Me gustaría saber si tiene experiencia trabajando con profesionales de USA.                |
+|                    | - Hábleme de sus puntos fuertes y débiles.                                                    |
+|                    | - Cuéntame algo sobre ti que no aparezca en tu currículum.                                    |
+|                    | - Háblame de tus aficiones.                                                                   |
+|                    | - ¿Cuál es la parte favorita de su trabajo?                                                   |
+|                    |                                                                                              |
+| **Comportamiento** | - Cuéntame una ocasión en la que no cumpliste un plazo.                                      |
+|                    | - Hábleme de una ocasión en la que tuvo que dar un feedback difícil.                          |
+|                    | - Describa un conflicto que haya tenido en el trabajo.                                        |
+|                    | - ¿Cómo maneja el estrés?                                                                     |
+|                    | - ¿Cuándo fue la última vez que tuvo un conflicto con un compañero y cómo lo resolvió?       |
+|                    | - ¿Cómo crees que puedes trabajar bajo presión?                                               |
+|                    | - Cuénteme alguna vez que haya tenido que dar un feedback difícil.                            |
+|                    | - Hábleme de una ocasión en la que recibió un feedback constructivo.                          |
+|                    | - Cuénteme una ocasión en la que haya fracasado.                                              |
+
+
 
 ## Desafío Técnico
     - **Probablemente un Proyecto o Pair Programming**
