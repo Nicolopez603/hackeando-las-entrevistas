@@ -1,5 +1,8 @@
 # Guía para Entrevistas en Software 🚀
 
+![Entrevista de Software](https://images.unsplash.com/photo-1565688534245-05d6b5be184a?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+
 | Contenido                                               | Propósito                                                                                       |
 |---------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | [Introducción](#introducción) 🌟                        | Proporciona un resumen del documento y establece las expectativas.                              |
@@ -21,7 +24,7 @@
 Es necesario comprender que cada entrevista tiene su alcance y propósito específico. Estar preparado práctica, mental y teóricamente es clave para superar el proceso de entrevista.
 
 ## Proceso de Entrevistas
-El proceso de entrevistas puede dividirse en cuatro secciones principales:
+El proceso de entrevistas puede dividirse en cuatro o más secciones principales, en este caso veremos:
 
 | Etapa de la Entrevista                | Descripción                                                                                                           |
 |---------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -32,7 +35,7 @@ El proceso de entrevistas puede dividirse en cuatro secciones principales:
 
 ## RRHH Interview
 ### Mis preguntas al entrevistador:
-| Pregunta                                                                                       |
+| Preguntas                                                                                       |
 |------------------------------------------------------------------------------------------------|
 | ¿Cómo es el proceso?                                                                           |
 | ¿Cómo está integrado el equipo?                                                                |
@@ -46,7 +49,7 @@ El proceso de entrevistas puede dividirse en cuatro secciones principales:
 
 
 ### Preguntas del entrevistador:
-| Categoría          | Pregunta                                                                                     |
+| Categoría          | Preguntas                                                                                     |
 |--------------------|----------------------------------------------------------------------------------------------|
 | **Motivación**     | - ¿Por qué nuestra empresa?                                                                  |
 |                    | - ¿Por qué quiere este trabajo?                                                              |
