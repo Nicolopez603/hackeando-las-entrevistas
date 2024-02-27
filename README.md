@@ -1,18 +1,18 @@
-# Guía para Entrevistas en Software
+# Guía para Entrevistas en Software 🚀
 
-## Tabla de Contenidos
-- [Introducción](#introducción)
-- [Proceso de Entrevistas](#proceso-de-entrevistas)
-  - [RRHH Interview](#rrhh-interview)
-  - [Desafío Técnico](#desafío-técnico)
-  - [Entrevista Técnica](#entrevista-técnica)
-  - [Entrevista de Comportamiento](#entrevista-de-comportamiento)
+## Tabla de Contenidos 📑
+- [Introducción](#introducción) 🌟
+- [Proceso de Entrevistas](#proceso-de-entrevistas) 📋
+  - [RRHH Interview](#rrhh-interview) 👥
+  - [Desafío Técnico](#desafío-técnico) 💻
+  - [Entrevista Técnica](#entrevista-técnica)  🛠️
+  - [Entrevista de Comportamiento](#entrevista-de-comportamiento) 🗣️
 - [Preguntas Frecuentes en Entrevistas](#preguntas-frecuentes-en-entrevistas)
-  - [Motivación](#motivación)
-  - [Personal](#personal)
-  - [Comportamiento](#comportamiento)
-- [Consejos para Entrevistas](#consejos-para-entrevistas)
-- [Recursos y Enlaces Útiles](#recursos-y-enlaces-útiles)
+  - [Motivación](#motivación) 💡
+  - [Personal](#personal) 🤷
+  - [Comportamiento](#comportamiento)  🎭
+- [Consejos para Entrevistas](#consejos-para-entrevistas)  📝
+- [Recursos y Enlaces Útiles](#recursos-y-enlaces-útiles)  🔗
 
 ## Introducción
 Es necesario comprender que cada entrevista tiene su alcance y propósito específico. Estar preparado práctica, mental y teóricamente es clave para superar el proceso de entrevista.
@@ -20,10 +20,12 @@ Es necesario comprender que cada entrevista tiene su alcance y propósito espec�
 ## Proceso de Entrevistas
 El proceso de entrevistas puede dividirse en cuatro secciones principales:
 
-1. **RRHH Interview:** Su objetivo es conocerte y validar la información de tu currículum.
-2. **Desafío Técnico:** Evalúa tus habilidades técnicas, incluyendo la codificación y la estructuración de proyectos.
-3. **Entrevista Técnica:** Evalúa conocimientos teóricos y prácticos, experiencias vividas y cómo abordas escenarios y situaciones.
-4. **Entrevista de Comportamiento:** Analiza tu comportamiento, adaptabilidad y si encajas con los valores de la empresa.
+| Etapa de la Entrevista                | Descripción                                                                                                           |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **RRHH Interview**                    | Su objetivo es conocerte y validar la información de tu currículum.                                                  |
+| **Desafío Técnico**                   | Evalúa tus habilidades técnicas, incluyendo la codificación y la estructuración de proyectos.                         |
+| **Entrevista Técnica**                | Evalúa conocimientos teóricos y prácticos, experiencias vividas y cómo abordas escenarios y situaciones.              |
+| **Entrevista de Comportamiento**      | Analiza tu comportamiento, adaptabilidad y si encajas con los valores de la empresa.                                  |
 
 ## RRHH Interview
 ### Mis preguntas al entrevistador:
