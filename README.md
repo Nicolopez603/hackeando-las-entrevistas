@@ -187,53 +187,81 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 
 
 ## Entrevista de Comportamiento
+
 ### Preguntas sobre el trabajo en equipo y la colaboración
+
 El trabajo en equipo es una parte integral del proceso de desarrollo. Los líderes de contratación de empresas Top hacen preguntas sobre el comportamiento en torno a la colaboración y el trabajo en equipo para ver si eres una persona de equipo enérgico y dispuesto a colaborar con otros empleados independientemente de las diferencias subyacentes.
-- **¿Has tenido algún conflicto con un compañero de trabajo? ¿Cómo lo resolvió y cuál fue el resultado final?**
-- **¿Cómo influirías positivamente en el equipo con el que vas a trabajar?**
-- ¿Qué opinas de los ejercicios de team building? ¿Crees que merecen la pena el esfuerzo y el tiempo? ¿Qué cosas fuera de lo común te gustaría que se incluyeran en un ejercicio de creación de equipos?
-- ¿Has trabajado con algún compañero especialmente poco colaborador en el pasado? ¿Qué importancia tenía este trabajador? ¿Se resintió el proyecto? ¿Cómo trabajaste con él/ella?
-- **¿Cómo construyes relaciones en tu lugar de trabajo? ¿Es una persona accesible en general?**
-- Cuando ocupaba un puesto directivo, ¿cómo resolvió una disputa entre dos miembros de su equipo?
-- ¿Ha fracasado su equipo en algún proyecto importante? En caso afirmativo, ¿cómo lo solucionó?
-- **¿Se ha encontrado en una situación en la que un miembro de su equipo haya sido negligente y mentiroso? ¿Repercutió en los resultados del proyecto? ¿Cómo abordó la situación?**
 
-### Preguntas sobre el balance entre lo laboral y familiar
+| Pregunta | Descripción |
+|----------|-------------|
+| **¿Has tenido algún conflicto con un compañero de trabajo? ¿Cómo lo resolvió y cuál fue el resultado final?** | Esta pregunta evalúa cómo manejas los conflictos en el lugar de trabajo y si puedes resolver problemas de manera efectiva en un entorno colaborativo. |
+| **¿Cómo influirías positivamente en el equipo con el que vas a trabajar?** | Aquí se busca comprender cómo puedes contribuir positivamente al equipo y qué valor añadido puedes aportar. |
+| ¿Qué opinas de los ejercicios de team building? ¿Crees que merecen la pena el esfuerzo y el tiempo? ¿Qué cosas fuera de lo común te gustaría que se incluyeran en un ejercicio de creación de equipos? | Esta pregunta busca conocer tu opinión sobre las actividades de construcción de equipos y tu creatividad para proponer nuevas ideas para mejorarlas. |
+| ¿Has trabajado con algún compañero especialmente poco colaborador en el pasado? ¿Qué importancia tenía este trabajador? ¿Se resintió el proyecto? ¿Cómo trabajaste con él/ella? | Aquí se evalúa tu capacidad para trabajar con personas difíciles y cómo abordas los desafíos relacionados con la colaboración en equipo. |
+| **¿Cómo construyes relaciones en tu lugar de trabajo? ¿Es una persona accesible en general?** | Esta pregunta busca comprender cómo te relacionas con tus compañeros de trabajo y si eres accesible y abierto a la colaboración. |
+| Cuando ocupaba un puesto directivo, ¿cómo resolvió una disputa entre dos miembros de su equipo? | Aquí se evalúa tu capacidad para manejar conflictos como líder y cómo resuelves disputas dentro del equipo. |
+| ¿Ha fracasado su equipo en algún proyecto importante? En caso afirmativo, ¿cómo lo solucionó? | Esta pregunta busca comprender cómo afrontas los fracasos en equipo y cómo trabajas para superarlos y aprender de ellos. |
+| **¿Se ha encontrado en una situación en la que un miembro de su equipo haya sido negligente y mentiroso? ¿Repercutió en los resultados del proyecto? ¿Cómo abordó la situación?** | Esta pregunta evalúa cómo manejas situaciones difíciles relacionadas con la integridad y el rendimiento del equipo, y cómo abordas tales problemas para mantener la colaboración y la productividad. |
+
+## Preguntas sobre el balance entre lo laboral y familiar
+
 Equilibrar el trabajo y la vida personal es crucial para la salud mental y la productividad. Lograr un equilibrio adecuado entre la vida laboral y personal puede reportar una serie de beneficios que van desde la serenidad y la calma hasta la agudeza mental y la mejora en la toma de decisiones.
-- Según usted, ¿cuál es la forma ideal de mantener un buen equilibrio entre la vida laboral y personal?
-- **¿Se ha estresado por la entrega de algún proyecto en el pasado? ¿Afectó a su conciliación? ¿Cómo lo solucionó?**
-- ¿Qué opina de las vacaciones y de su influencia en la conciliación de la vida laboral y familiar?
-- ¿Practica algún deporte o actividad física? ¿Lo ha hecho en el pasado? ¿Qué opina de su influencia en la conciliación de la vida laboral y familiar?
-- **¿Cómo gestiona el aburrimiento y la monotonía en el trabajo?**
-- ¿Qué opina de la salud mental? ¿Qué importancia cree que tiene a la hora de influir en la productividad laboral y el equilibrio en la vida?
 
-### Preguntas sobre el trato con los clientes/stakeholders
+| Pregunta | Descripción |
+|----------|-------------|
+| Según usted, ¿cuál es la forma ideal de mantener un buen equilibrio entre la vida laboral y personal? | Se busca comprender tu visión sobre cómo lograr un equilibrio entre el trabajo y la vida personal y qué estrategias consideras más efectivas. |
+| ¿Se ha estresado por la entrega de algún proyecto en el pasado? ¿Afectó a su conciliación? ¿Cómo lo solucionó? | Esta pregunta evalúa cómo manejas el estrés laboral y cómo afecta este al equilibrio entre el trabajo y la vida personal, así como tus estrategias para abordar esta situación. |
+| ¿Qué opina de las vacaciones y de su influencia en la conciliación de la vida laboral y familiar? | Se busca conocer tu opinión sobre la importancia de las vacaciones en el equilibrio entre el trabajo y la vida personal y cómo afectan esto a tu rendimiento laboral. |
+| ¿Practica algún deporte o actividad física? ¿Lo ha hecho en el pasado? ¿Qué opina de su influencia en la conciliación de la vida laboral y familiar? | Esta pregunta busca comprender cómo las actividades físicas pueden contribuir al equilibrio entre el trabajo y la vida personal y tu experiencia al respecto. |
+| ¿Cómo gestiona el aburrimiento y la monotonía en el trabajo? | Aquí se evalúa tu capacidad para manejar situaciones de aburrimiento y monotonía en el trabajo y cómo afecta esto al equilibrio entre el trabajo y la vida personal. |
+| ¿Qué opina de la salud mental? ¿Qué importancia cree que tiene a la hora de influir en la productividad laboral y el equilibrio en la vida? | Se busca comprender tu percepción sobre la importancia de la salud mental en el trabajo y cómo esta influye en el equilibrio entre la vida laboral y personal. |
+
+## Preguntas sobre el trato con los clientes/stakeholders
+
 Los puestos de cara al cliente requieren sólidas habilidades de comunicación, compostura y la capacidad de impulsar el compromiso con el cliente. En las empresas Top, suelen ser las funciones de desarrollador senior las que implican comprender, planificar y ejecutar los requisitos del cliente.
-- **¿Ha trabajado con un cliente difícil en el pasado? ¿Cómo superó los retos y cumplió lo prometido?**
-- Cuéntenos alguna ocasión en la que convenciera a un cliente para que cambiara el rumbo de un proyecto.
 
-### Preguntas sobre las relaciones con jefes y superiores
+| Pregunta | Descripción |
+|----------|-------------|
+| ¿Ha trabajado con un cliente difícil en el pasado? ¿Cómo superó los retos y cumplió lo prometido? | Esta pregunta evalúa tu capacidad para manejar situaciones difíciles con los clientes y cómo abordas los desafíos para cumplir con sus expectativas. |
+| Cuéntenos alguna ocasión en la que convenciera a un cliente para que cambiara el rumbo de un proyecto. | Aquí se busca comprender tu habilidad para influir en las decisiones del cliente y cómo logras alinear sus necesidades con los objetivos del proyecto. |
+| ¿Cuál es la forma ideal de mantener un buen equilibrio entre la vida laboral y personal? | Se busca comprender tu visión sobre cómo lograr un equilibrio entre el trabajo y la vida personal y qué estrategias consideras más efectivas. |
+| ¿Se ha estresado por la entrega de algún proyecto en el pasado? ¿Afectó a su conciliación? ¿Cómo lo solucionó? | Esta pregunta evalúa cómo manejas el estrés laboral y cómo afecta este al equilibrio entre el trabajo y la vida personal, así como tus estrategias para abordar esta situación. |
+| ¿Qué opina de las vacaciones y de su influencia en la conciliación de la vida laboral y familiar? | Se busca conocer tu opinión sobre la importancia de las vacaciones en el equilibrio entre el trabajo y la vida personal y cómo afectan esto a tu rendimiento laboral. |
+
+## Preguntas sobre las relaciones con jefes y superiores
+
 Mantener relaciones cordiales con los superiores influye considerablemente en la curva de aprendizaje y en las perspectivas profesionales futuras.
-- **¿Ha tenido que convencer a un superior jerárquico para que haga cambios importantes en un proyecto porque las cosas no iban del todo bien? ¿Qué tal le fue?**
-- Cuéntenos alguna ocasión en la que no pudo cumplir las expectativas de un proyecto y cómo afectó a su relación con su jefe.
-- **¿Has tenido algún jefe difícil en el pasado? ¿Cómo logró entablar una relación con él/ella?**
-- Cuéntanos alguna ocasión en la que tu jefe/superior no fuera razonable y cómo lo gestionaste.
-- ¿Cuál es la mejor manera de mantener una buena relación con tus superiores/directivos en el trabajo?
-- ¿Ha habido alguna vez en la que se haya pasado por alto tu contribución y otra persona de tu equipo se haya llevado el mérito? ¿Cómo lo solucionaste?
 
-### Preguntas sobre la adaptabilidad
+| Pregunta | Descripción |
+|----------|-------------|
+| ¿Ha tenido que convencer a un superior jerárquico para que haga cambios importantes en un proyecto porque las cosas no iban del todo bien? ¿Qué tal le fue? | Esta pregunta evalúa tu capacidad para influir en las decisiones de tus superiores y cómo abordas los desafíos para mejorar un proyecto. |
+| Cuéntenos alguna ocasión en la que no pudo cumplir las expectativas de un proyecto y cómo afectó a su relación con su jefe. | Aquí se busca comprender cómo manejas situaciones en las que no cumples con las expectativas del proyecto y cómo afecta esto a tu relación con tu jefe. |
+| ¿Has tenido algún jefe difícil en el pasado? ¿Cómo logró entablar una relación con él/ella? | Esta pregunta evalúa cómo manejas las relaciones con jefes difíciles y cómo trabajas para establecer una relación positiva con ellos. |
+| Cuéntanos alguna ocasión en la que tu jefe/superior no fuera razonable y cómo lo gestionaste. | Aquí se busca comprender cómo manejas situaciones en las que tu jefe no es razonable y cómo abordas los desafíos para mantener una relación profesional. |
+| ¿Cuál es la mejor manera de mantener una buena relación con tus superiores/directivos en el trabajo? | Se busca conocer tus estrategias para mantener una relación positiva y productiva con tus superiores en el lugar de trabajo. |
+| ¿Ha habido alguna vez en la que se haya pasado por alto tu contribución y otra persona de tu equipo se haya llevado el mérito? ¿Cómo lo solucionaste? | Esta pregunta evalúa cómo manejas situaciones en las que no se reconoce tu contribución y cómo abordas los desafíos para resolver esta situación. |
+
+## Preguntas sobre la adaptabilidad
+
 La adaptabilidad consiste básicamente en adaptarse a las exigencias que plantean los nuevos proyectos. Estas son algunas de las preguntas que puede esperar:
-- **Háblenos de un momento en el que su equipo sufrió un cambio estructural importante. ¿Cómo le afectó a usted y a sus compañeros?**
-- ¿Ha tenido que trabajar en un proyecto completamente nuevo que le exigiera aprender y adquirir nuevas habilidades? ¿Cómo lo hizo?
-- **Háblenos de cómo prioriza tareas específicas en un proyecto.**
-- ¿Qué has aprendido de proyectos difíciles en el pasado? ¿Ha cambiado algo en ti?
-- ¿Has tomado la iniciativa en algún proyecto? Cuéntenos lo que ha aprendido y cómo lo ha transmitido a su equipo.
 
-### Preguntas específicas sobre la empresa
-- **¿Por qué quiere trabajar en la empresa?**
-- **¿Qué es lo que más admira de la cultura de la empresa?**
-- ¿Qué retos prevé para la empresa en el futuro?
-- ¿Qué opina de la diversidad y la inclusión en el lugar de trabajo?
+| Pregunta | Descripción |
+|----------|-------------|
+| Háblenos de un momento en el que su equipo sufrió un cambio estructural importante. ¿Cómo le afectó a usted y a sus compañeros? | Se busca comprender cómo manejas situaciones de cambio estructural en tu equipo y cómo afecta esto a tu desempeño y el de tus compañeros. |
+| ¿Ha tenido que trabajar en un proyecto completamente nuevo que le exigiera aprender y adquirir nuevas habilidades? ¿Cómo lo hizo? | Esta pregunta evalúa tu capacidad para aprender y adquirir nuevas habilidades en proyectos nuevos y cómo abordas los desafíos para adaptarte a ellos. |
+| Háblenos de cómo prioriza tareas específicas en un proyecto. | Aquí se busca comprender tu enfoque para priorizar tareas en proyectos y cómo manejas los recursos y el tiempo para lograr los objetivos. |
+| ¿Qué has aprendido de proyectos difíciles en el pasado? ¿Ha cambiado algo en ti? | Se busca conocer las lecciones que has aprendido de proyectos difíciles en el pasado y cómo estas experiencias han influido en tu desarrollo profesional y personal. |
+| ¿Has tomado la iniciativa en algún proyecto? Cuéntenos lo que ha aprendido y cómo lo ha transmitido a su equipo. | Esta pregunta evalúa tu capacidad para tomar la iniciativa en proyectos y cómo compartes tus conocimientos y experiencias con tu equipo para lograr los objetivos del proyecto. |
+
+## Preguntas específicas sobre la empresa
+
+| Pregunta | Descripción |
+|----------|-------------|
+| ¿Por qué quiere trabajar en la empresa? | Se busca conocer tus motivaciones para querer formar parte de la empresa y cómo encajas con su cultura y valores. |
+| ¿Qué es lo que más admira de la cultura de la empresa? | Aquí se busca comprender qué aspectos de la cultura de la empresa te atraen más y cómo crees que contribuirán a tu desarrollo profesional. |
+| ¿Qué retos prevé para la empresa en el futuro? | Se busca conocer tus perspectivas sobre los desafíos que enfrenta la empresa en el futuro y cómo podrías contribuir a superarlos. |
+| ¿Qué opina de la diversidad y la inclusión en el lugar de trabajo? | Esta pregunta evalúa tu percepción sobre la importancia de la diversidad y la inclusión en el lugar de trabajo y cómo crees que pueden contribuir al éxito de la empresa. |
+
 
 ## Consejos para Entrevistas
 1. Tené siempre la cámara encendida, y enfoca tu cara en primer plano, ni muy desde abajo ni muy desde arriba, tiene que estar en el centro, que se pueda visualizar desde debajo de los hombros hasta el pelo.
