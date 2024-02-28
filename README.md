@@ -3,6 +3,19 @@
 ![Entrevista de Software](https://images.unsplash.com/photo-1565688534245-05d6b5be184a?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 
+--------
+
+- #### El objetivo principal de este repositorio es **compartir** el material para la investigacion y aprendizaje, se va a ir actualizando a medida que se encuentre más informacion y/o quieran aportar respectivamente. El material se divide en ESP (Español) y ENG. (English)
+
+- #### Finalmente: Estoy seguro de que tod@s las personas que se encuentren con este repositorio tienen algo que quieren aportar. ¡Lea la ultima seccion sobre **Cómo contribuir** y siéntase libre de agregar a la lista lo que desee!
+
+- #### Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
+
+- #### **Notion** por si gustan verlo por allí: [Entrevista-101](https://apuntesdenico.notion.site/Interview-ESP-VERSION-cf6335b82ffa4c5cba8f8989993a007e "Entrevista-101") 
+
+---------
+
+
 | Contenido                                               | Propósito                                                                                       |
 |---------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | [Introducción](#introducción) 🌟                        | Proporciona un resumen del documento y establece las expectativas.                              |
