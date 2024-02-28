@@ -91,7 +91,7 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 
     
 ## Entrevista Técnica
-### Manual Testing + QA Behavioural
+### Manual Testing + Behavioural + Automation
 ### Manual
 #### Definiciones
 | Término | Pregunta |
@@ -164,23 +164,27 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 
 *Descripción: Preguntas orientadas a evaluar la capacidad de resolución de problemas, conocimientos prácticos, y experiencia en escenarios de testing reales y teóricos.*
 
+## Automation
 
-### Automation Framework Interview
-- What is Object Oriented Programming?
-- What automation tools have you used?
-- What is POM?
-- How to choose a selector?
-- What strategies of selectors do you know?
-- How would you prioritize the cases to automate?
-- How to make automation last over time?
-- What are the most common errors that can occur in an automation project?
-- Tell me about design patterns, what are they for? Which ones have you used?
-- What does static mean?
-- What is a try/catch?
-- What continuous integration tools do you know and have you used? Give me examples of use.
-- Polymorphism and overloading?
-- What is the difference between public, private, and protected?
-- How many test cases have you automated in your current project / how many does your regression suite have?
+### Entrevista sobre Frameworks de Automatización
+| Tema | Pregunta |
+|------|----------|
+| Programación Orientada a Objetos | ¿Qué es la Programación Orientada a Objetos y cómo se aplica en la automatización de pruebas? |
+| Herramientas de automatización utilizadas | ¿Qué herramientas de automatización has utilizado en tus proyectos? |
+| POM (Modelo de Objetos de Página) | ¿Qué es el Modelo de Objetos de Página y cuál es su importancia en la automatización de pruebas? |
+| Selección de selector | ¿Cómo eliges un selector adecuado para identificar elementos en la interfaz de usuario? |
+| Estrategias de selector | ¿Cuáles son las estrategias comunes para seleccionar elementos en la automatización de pruebas? |
+| Priorización de casos de prueba | ¿Cómo priorizas los casos de prueba para la automatización? |
+| Longevidad de la automatización | ¿Cómo garantizas que la automatización de pruebas perdure a lo largo del tiempo? |
+| Errores comunes en la automatización | ¿Cuáles son los errores más comunes que pueden ocurrir en un proyecto de automatización? |
+| Patrones de diseño | ¿Qué son los patrones de diseño y cómo se aplican en la automatización de pruebas? ¿Cuáles has utilizado? |
+| Palabra clave "static" | ¿Qué significa la palabra clave "static" en programación y cómo se utiliza en el contexto de la automatización? |
+| Bloque try/catch | ¿Qué es un bloque try/catch y cómo se utiliza para el manejo de excepciones en la automatización de pruebas? |
+| Herramientas de integración continua | ¿Qué herramientas de integración continua conoces y cuáles has utilizado? Proporciona ejemplos de uso. |
+| Polimorfismo y sobrecarga | ¿Qué es el polimorfismo y la sobrecarga de métodos y cómo se aplican en la automatización de pruebas? |
+| Public, private y protected | ¿Cuál es la diferencia entre los modificadores de acceso public, private y protected en la programación orientada a objetos? |
+| Cantidad de automatización de casos de prueba | ¿Cuántos casos de prueba has automatizado en tu proyecto actual / cuántos tiene tu suite de regresión? |
+
 
 ## Entrevista de Comportamiento
 ### Preguntas sobre el trabajo en equipo y la colaboración
