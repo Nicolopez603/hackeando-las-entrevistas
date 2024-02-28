@@ -264,16 +264,20 @@ La adaptabilidad consiste básicamente en adaptarse a las exigencias que plantea
 
 
 ## Consejos para Entrevistas
-1. Tené siempre la cámara encendida, y enfoca tu cara en primer plano, ni muy desde abajo ni muy desde arriba, tiene que estar en el centro, que se pueda visualizar desde debajo de los hombros hasta el pelo.
-2. Ropa adecuada a la situación.
-3. Prepárate para situaciones de estrés, las entrevistas son exigentes y estresantes, acostúmbrate a estar bajo tensión durante un corto periodo de tiempo.
-4. Fondo de cámara que no distraiga al entrevistador.
-5. Vaso de agua (Te ayuda a pensar tus respuestas cuando necesitas una pausa).
-6. Tener preparadas las preguntas para el entrevistador.
-7. Respeta las pausas, a veces es mejor ser claro y conciso que hablar durante demasiado tiempo.
-8. Infórmate sobre la empresa, sus valores y a qué mercado se dirige (Muy importante).
-9. Tener notas pegadas en la pared puede ser útil en momentos en los que se olvidan cosas.
-10. Ser muy bueno contando tu historia laboral y, sobre todo, respondiendo a la pregunta de: Contame de vos y de tu trabajo actual.
+## Consejos para Entrevistas Virtuales
+
+| Punto | Descripción |
+|-------|-------------|
+| Tené siempre la cámara encendida y enfoque facial adecuado | Mantén la cámara encendida y enfoque tu cara en primer plano, asegurándote de que esté centrada y visible desde debajo de los hombros hasta el pelo, evitando ángulos extremos. |
+| Vestimenta apropiada | Viste adecuadamente según la situación. Opta por prendas que den una impresión profesional y apropiada para la ocasión. |
+| Preparación para situaciones de estrés | Anticípate a situaciones de estrés, ya que las entrevistas pueden ser exigentes y estresantes. Acostúmbrate a manejar la presión y a mantener la calma durante el proceso. |
+| Fondo de cámara sin distracciones | Selecciona un fondo neutro que no distraiga al entrevistador y que permita centrar la atención en ti y en tu comunicación. |
+| Vaso de agua | Ten a mano un vaso de agua para ayudarte a pensar en tus respuestas y tomar pausas cuando sea necesario durante la entrevista. |
+| Preparación de preguntas para el entrevistador | Prepárate con anticipación para formular preguntas relevantes al entrevistador sobre la empresa y el puesto, demostrando interés y conocimiento. |
+| Respeto por las pausas | Evita hablar en exceso y respeta las pausas durante la conversación. Es preferible ser claro y conciso en tus respuestas en lugar de extenderlas demasiado. |
+| Investigación sobre la empresa | Infórmate sobre la empresa, sus valores y su mercado objetivo antes de la entrevista. Esta información te ayudará a mostrar un interés genuino y a adaptar tus respuestas de manera más efectiva. |
+| Uso de notas adhesivas | Considera tener notas adhesivas pegadas en la pared cerca de tu espacio de entrevista como recordatorio de puntos importantes o datos relevantes que desees mencionar durante la conversación. |
+| Narración efectiva de tu historia laboral | Sé hábil al contar tu historia laboral y al responder preguntas como "Contame de vos y de tu trabajo actual", destacando tus logros y habilidades relevantes para el puesto. |
 
 ## Recursos y Enlaces Útiles
 - [Glassdoor](https://www.glassdoor.com/index.htm) para investigar preguntas de entrevistas específicas de la empresa.
