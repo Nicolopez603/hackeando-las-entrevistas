@@ -92,71 +92,78 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
     
 ## Entrevista Técnica
 ### Manual Testing + QA Behavioural
-#### Manual
-##### Definiciones
-- **Definiciones:**
-  - **Caja negra**
-  - **Caja blanca**
-  - **Pruebas funcionales**
-  - **Pruebas no funcionales**
-  - **Pruebas de regresión**
-  - **Pruebas de humo**
-  - **Pruebas exploratorias**
+### Manual
+#### Definiciones
+| Término | Pregunta |
+|---------|----------|
+| Caja negra | ¿Qué es caja negra? Explicar con ejemplos. |
+| Caja blanca | ¿Qué es Caja Blanca? Explicar con ejemplos. |
+| Pruebas funcionales | ¿Cuáles son las características principales de las pruebas funcionales? |
+| Pruebas no funcionales | ¿Cómo se diferencian las pruebas no funcionales de las funcionales? |
+| Pruebas de regresión | ¿Cuál es el propósito de las pruebas de regresión? |
+| Pruebas de humo | ¿En qué consisten las pruebas de humo y cuál es su importancia? |
+| Pruebas exploratorias | ¿Qué son las pruebas exploratorias y cómo se realizan? |
 
-##### Técnicas de Testing
-- Técnicas de Testing
-  - **(Black-Box):**
-    - **Particionamiento por equivalencia**
-    - **Valor límite**
-    - **Tablas de decisión**
+#### Técnicas de Testing (Black-Box)
+| Técnica | Pregunta |
+|---------|----------|
+| Particionamiento por equivalencia | ¿Qué es el particionamiento por equivalencia y cómo se aplica? |
+| Valor límite | ¿Cómo se realiza el análisis de valor límite en las pruebas? |
+| Tablas de decisión | ¿Qué son las tablas de decisión y en qué casos se utilizan? |
 
-#### Teórico
-- **Definiciones**
-- **Testing:**
-- **Caso de Prueba:**
-- **Caso de Uso:**
-- **Calidad:**
-- **Diferencia entre QA QC y Tester:**
-- **Plan de Pruebas:**
-- **Estrategia de Pruebas:**
-- **Suite de Pruebas:**
-- **Bug:**
-- **Ciclo de Vida del Bug:**
-- **Diferencia entre Severidad vs Prioridad:**
-- **Pirámide de Automatización:**
-- **Ciclo de Vida del Caso de Prueba:**
-- **Metodologías Ágiles:**
-- **Ceremonias de Scrum:**
-- **Herramientas de Gestión de Pruebas y Requisitos:**
-- **Herramientas de Gestión de Defectos:**
-- **SDLC Y STLC:**
-- **Diferencia entre Plan de Pruebas y Estrategia de Pruebas:**
-- **Ciclo de Vida de Pruebas de Software:**
-- **Verificación:**
-- **Validación:**
-- **Diferencia entre Retesting y Regresión:**
-- **Estructura de un Reporte:**
-- **¿En qué etapa crees que debería comenzar Testing?:**
-- **Que tipos de pruebas conoces e hiciste?:**
-- **Cómo comenzar un proyecto de prueba desde cero:**
+### Teórico
+| Concepto | Pregunta |
+|----------|----------|
+| Testing | ¿Qué es el testing en el desarrollo de software y por qué es necesario? |
+| Caso de Prueba | ¿Cómo se define un caso de prueba efectivo? |
+| Caso de Uso | ¿Qué relación existe entre los casos de uso y las pruebas de software? |
+| Calidad | ¿Cómo se mide la calidad en el software y cuál es el papel del testing? |
+| Diferencia entre QA, QC y Tester | ¿Cuáles son las diferencias principales entre QA, QC, y un Tester? |
+| Plan de Pruebas | ¿Qué elementos debe contener un plan de pruebas? |
+| Estrategia de Pruebas | ¿Cómo se desarrolla una estrategia de pruebas efectiva? |
+| Suite de Pruebas | ¿Qué es una suite de pruebas y cómo se gestiona? |
+| Bug | ¿Cómo se clasifica un bug y cuál es su ciclo de vida? |
+| Ciclo de Vida del Bug | ¿Cuáles son las etapas del ciclo de vida de un bug? |
+| Diferencia entre Severidad vs Prioridad | ¿Cómo se determina la severidad y la prioridad de un bug? |
+| Pirámide de Automatización | ¿Qué es la pirámide de automatización y cómo se aplica en el testing? |
+| Ciclo de Vida del Caso de Prueba | ¿Cuáles son las fases del ciclo de vida de un caso de prueba? |
+| Metodologías Ágiles | ¿Cómo impactan las metodologías ágiles en el proceso de testing? |
+| Ceremonias de Scrum | ¿Cuáles son las ceremonias de Scrum y cómo se relacionan con el testing? |
+| Herramientas de Gestión de Pruebas y Requisitos | ¿Qué herramientas se utilizan para la gestión de pruebas y requisitos y cómo se seleccionan? |
+| Herramientas de Gestión de Defectos | ¿Cuáles son las principales herramientas para la gestión de defectos y cómo se utilizan? |
+| SDLC y STLC | ¿Cuál es la diferencia entre SDLC y STLC? |
+| Diferencia entre Plan de Pruebas y Estrategia de Pruebas | ¿Cómo se diferencian un plan de pruebas de una estrategia de pruebas? |
+| Ciclo de Vida de Pruebas de Software | ¿Cuáles son las fases del ciclo de vida de pruebas de software? |
+| Verificación vs Validación | ¿Cuál es la diferencia entre verificación y validación en el contexto del testing? |
+| Diferencia entre Retesting y Regresión | ¿Cómo se diferencian el retesting de la regresión? |
+| Estructura de un Reporte de Bug | ¿Qué información debe contener un reporte de bug efectivo? |
+| ¿En qué etapa debería comenzar el testing? | ¿Por qué es importante iniciar el testing temprano en el desarrollo de software? |
+| Tipos de pruebas conocidos | ¿Qué tipos de pruebas has realizado y cuáles recomiendas? |
+| Cómo comenzar un proyecto de prueba desde cero | ¿Cuáles son los primeros pasos para establecer un proyecto de prueba desde cero? |
 
-##### Behavior - Behavioural
-- **¿Cómo te aseguras de que un error encontrado en producción no se reintroduzca?**
-- **¿Qué haces cuando un desarrollador niega que lo que presentaste es un error?**
-- **¿Cuál ha sido uno de tus mayores desafíos al realizar pruebas de regresión?**
-- **Diferencia entre pruebas funcionales y no funcionales:**
-  - **Pruebas Funcionales:**
-  - **Pruebas No Funcionales:**
-- **Enumera algunos de los principales desafíos al realizar pruebas de software:**
-- **Diferentes tipos de pruebas:**
-- **¿Cuál es tu enfoque cuando debes entregar un lanzamiento de alta prioridad en muy poco tiempo?**
-- **Dame un ejemplo de alta prioridad pero baja gravedad:**
-- **¿Qué es un Plan de Pruebas?**
-- **¿Cómo son tus actividades diarias como miembro del equipo de automatización?**
-- **¿Cómo seleccionas los casos de regresión o los casos para formar la suite de prueba de regresión?**
-- **¿Alguna vez has tenido que gestionar la redacción de casos de prueba sin documentación previa?**
-- **¿Cuál es la primera acción que tomas como tester cuando la aplicación arroja un error?**
-- **¿Cuáles son los casos que no son ideales para automatizar?**
+
+*Descripción: Cobertura teórica exhaustiva sobre los aspectos esenciales del testing de software, desde definiciones básicas hasta metodologías y herramientas avanzadas.*
+
+#### Behavior - Behavioural
+| Pregunta |
+|----------|
+| ¿Cómo te aseguras de que un error encontrado en producción no se reintroduzca? |
+| ¿Qué haces cuando un desarrollador niega que lo que presentaste es un error? |
+| ¿Cuál ha sido uno de tus mayores desafíos al realizar pruebas de regresión? |
+| Diferencia entre pruebas funcionales y no funcionales |
+| Enumera algunos de los principales desafíos al realizar pruebas de software |
+| Diferentes tipos de pruebas |
+| ¿Cuál es tu enfoque cuando debes entregar un lanzamiento de alta prioridad en muy poco tiempo? |
+| Dame un ejemplo de alta prioridad pero baja gravedad |
+| ¿Qué es un Plan de Pruebas? |
+| ¿Cómo son tus actividades diarias como miembro del equipo de automatización? |
+| ¿Cómo seleccionas los casos de regresión o los casos para formar la suite de prueba de regresión? |
+| ¿Alguna vez has tenido que gestionar la redacción de casos de prueba sin documentación previa? |
+| ¿Cuál es la primera acción que tomas como tester cuando la aplicación arroja un error? |
+| ¿Cuáles son los casos que no son ideales para automatizar? |
+
+*Descripción: Preguntas orientadas a evaluar la capacidad de resolución de problemas, conocimientos prácticos, y experiencia en escenarios de testing reales y teóricos.*
+
 
 ### Automation Framework Interview
 - What is Object Oriented Programming?
