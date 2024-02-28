@@ -294,3 +294,63 @@ La adaptabilidad consiste básicamente en adaptarse a las exigencias que plantea
 
 ## Recursos y Enlaces Útiles
 - [Glassdoor](https://www.glassdoor.com/index.htm) para investigar preguntas de entrevistas específicas de la empresa.
+
+<a name="Contribuir"></a>
+# Contribuir ![Github](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/github.png "Github")
+
+### ¡Sus contribuciones son siempre bienvenidas!
+
+- Cualquiera puede contribuir a esta lista, sólo asegúrate de seguir las siguientes directrices.
+
+### Pasos a seguir
+
+- Crear un Fork del repositorio.
+
+- Clonar el repositorio.
+
+- Crear una nueva rama.
+
+- Realizar los cambios.
+
+- Enviar un Pull Request.
+
+### Tener en cuenta
+
+- Termina las descripciones con un punto.
+
+- Las descripciones son opcionales, pero manténgalas concisas si añade alguna.
+
+- Añade una sección si es necesario.
+
+- Añada la descripción de la sección.
+
+- Añada el título de la sección al índice de contenidos.
+
+- Busque las sugerencias anteriores antes de hacer una nueva, ya que la suya puede ser un duplicado.
+
+- Asegúrese de que no hay URLs muertas en su presentación.
+
+- Revise la ortografía y la gramática.
+
+- Elimine los espacios en blanco al final del texto.
+
+- Si hay un conflicto de fusión, por favor vuelva a rebase y resuelva los conflictos y luego enviar el PR de nuevo.
+
+### Gracias por sus contribuciones.
+
+-----------------------------------------------
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita un café ☕ o Mate a alguien del equipo ^-^ .
+* Da las gracias públicamente 🤓.
+
+Hecho con ❤️ para ustedes =)
+
+**Nico lopez**
+
+Contacto:
+- [Twitter](https://twitter.com/nicomlopez "Twitter")
+- [Linkedin](https://www.linkedin.com/in/nicolaslopezqa/ "Linkedin")
+
