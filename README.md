@@ -1,53 +1,87 @@
-# Guía para Entrevistas en Software 🚀
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1617777934845-a818fd6e1bcb?q=80&w=2831&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Logo" width="80" height="80">
+  <h1 align="center">Hackeando la entrevista </h1>
+  <p align="center">
+    Recursos y consejos para prepararte para entrevistas técnicas y de trabajo.
+    <br />
+    <a href="#tabla-de-contenidos"><strong>Explora el contenido »</strong></a>
+    <br />
+    <br />
+
+## 📋 Tabla de Contenidos
+
+- [👨‍💻 Acerca del Proyecto](#-acerca-del-proyecto)
+- [🚀 Empezando](#-empezando)
+- [📝 Proceso de Entrevistas](#-proceso-de-entrevistas)
+  - [👥 RRHH Interview](#-rrhh-interview)
+  - [💻 Desafío Técnico](#-desafío-técnico)
+  - [🛠️ Entrevista Técnica](#-entrevista-técnica)
+  - [🗣️ Entrevista de Comportamiento](#-entrevista-de-comportamiento)
+- [❓ Preguntas Frecuentes en Entrevistas](#-preguntas-frecuentes-en-entrevistas)
+  - [💡 Motivación](#-motivación)
+  - [🤷 Personal](#-personal)
+  - [🎭 Comportamiento](#-comportamiento)
+- [💻 Entrevista Técnica](#-entrevista-técnica-1)
+  - [📋 Manual Testing + Behavioural + Automation](#-manual-testing--behavioural--automation)
+  - [📚 Definiciones](#-definiciones)
+  - [🧪 Técnicas de Testing (Black-Box)](#-técnicas-de-testing-black-box)
+  - [❓ Preguntas Teóricas](#-preguntas-teóricas)
+  - [🤖 Automation](#-automation)
+- [🗣️ Entrevista de Comportamiento](#-entrevista-de-comportamiento-1)
+- [🏆 Consejos para Entrevistas](#-consejos-para-entrevistas)
+  - [🖥️ Consejos para Entrevistas Virtuales](#-consejos-para-entrevistas-virtuales)
+- [🔗 Recursos y Enlaces Útiles](#-recursos-y-enlaces-útiles)
+- [🤝 Contribuir](#-contribuir)
+- [🙏 Expresiones de Gratitud](#-expresiones-de-gratitud)
+
+## 👨‍💻 Acerca del Proyecto
 
 ![Entrevista de Software](https://images.unsplash.com/photo-1565688534245-05d6b5be184a?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
+El objetivo principal de este repositorio es **compartir** el material para la investigación y aprendizaje, se va a ir actualizando a medida que se encuentre más información y/o quieran aportar respectivamente. El material se divide en ESP (Español) y ENG. (English)
 
---------
+Finalmente: Estoy seguro de que tod@s las personas que se encuentren con este repositorio tienen algo que quieren aportar. ¡Lea la última sección sobre **Cómo contribuir** y siéntase libre de agregar a la lista lo que desee!
 
-- #### El objetivo principal de este repositorio es **compartir** el material para la investigacion y aprendizaje, se va a ir actualizando a medida que se encuentre más informacion y/o quieran aportar respectivamente. El material se divide en ESP (Español) y ENG. (English)
+Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
 
-- #### Finalmente: Estoy seguro de que tod@s las personas que se encuentren con este repositorio tienen algo que quieren aportar. ¡Lea la ultima seccion sobre **Cómo contribuir** y siéntase libre de agregar a la lista lo que desee!
+**Notion** por si gustan verlo por allí: [Entrevista-101](https://apuntesdenico.notion.site/Interview-ESP-VERSION-cf6335b82ffa4c5cba8f8989993a007e "Entrevista-101") 
 
-- #### Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
+## 🚀 Iniciando
 
-- #### **Notion** por si gustan verlo por allí: [Entrevista-101](https://apuntesdenico.notion.site/Interview-ESP-VERSION-cf6335b82ffa4c5cba8f8989993a007e "Entrevista-101") 
+Puedes explorar las diferentes categorías y recursos disponibles en este repositorio. Siéntete libre de contribuir y agregar nuevos recursos que consideres útiles.
 
----------
+## 📝 Proceso de Entrevistas
 
-
-| Contenido                                               | Propósito                                                                                       |
-|---------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| [Introducción](#introducción) 🌟                        | Proporciona un resumen del documento y establece las expectativas.                              |
-| [Proceso de Entrevistas](#proceso-de-entrevistas) 📋    | Explica las diferentes etapas del proceso de entrevistas y qué esperar en cada una.            |
-| - [RRHH Interview](#rrhh-interview) 👥                  | Describe la entrevista inicial con Recursos Humanos para conocer al candidato y verificar su información de currículum. |
-| - [Desafío Técnico](#desafío-técnico) 💻                | Detalla el desafío técnico para evaluar las habilidades prácticas de codificación y resolución de problemas del candidato. |
-| - [Entrevista Técnica](#entrevista-técnica) 🛠️          | Explica la entrevista centrada en conocimientos técnicos específicos, experiencia y cómo el candidato aborda problemas técnicos. |
-| - [Entrevista de Comportamiento](#entrevista-de-comportamiento) 🗣️ | Examina la adaptabilidad del candidato, comportamiento y si sus valores coinciden con los de la empresa. |
-| [Preguntas Frecuentes en Entrevistas](#preguntas-frecuentes-en-entrevistas) | Lista preguntas comunes hechas por entrevistadores para preparar mejor al candidato.            |
-| - [Motivación](#motivación) 💡                          | Se enfoca en entender las razones del candidato para aplicar y sus aspiraciones a largo plazo.  |
-| - [Personal](#personal) 🤷                              | Aborda preguntas sobre la personalidad, experiencias y antecedentes del candidato.              |
-| - [Comportamiento](#comportamiento) 🎭                  | Evalúa cómo el candidato ha manejado situaciones pasadas para prever su comportamiento futuro.  |
-| [Consejos para Entrevistas](#consejos-para-entrevistas)  📝 | Ofrece sugerencias y estrategias para tener éxito en las entrevistas.                           |
-| [Recursos y Enlaces Útiles](#recursos-y-enlaces-útiles)  🔗 | Proporciona enlaces a recursos adicionales para preparación de entrevistas y desarrollo profesional. |
-
-
-
-## Introducción
-Es necesario comprender que cada entrevista tiene su alcance y propósito específico. Estar preparado práctica, mental y teóricamente es clave para superar el proceso de entrevista.
-
-## Proceso de Entrevistas
 El proceso de entrevistas puede dividirse en cuatro o más secciones principales, en este caso veremos:
 
-| Etapa de la Entrevista                | Descripción                                                                                                           |
-|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **RRHH Interview**                    | Su objetivo es conocerte y validar la información de tu currículum.                                                  |
-| **Desafío Técnico**                   | Evalúa tus habilidades técnicas, incluyendo la codificación y la estructuración de proyectos.                         |
-| **Entrevista Técnica**                | Evalúa conocimientos teóricos y prácticos, experiencias vividas y cómo abordas escenarios y situaciones.              |
-| **Entrevista de Comportamiento**      | Analiza tu comportamiento, adaptabilidad y si encajas con los valores de la empresa.                                  |
+<table>
+  <tr>
+    <th>Etapa de la Entrevista</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td><strong>RRHH Interview</strong></td>
+    <td>Su objetivo es conocerte y validar la información de tu currículum.</td>
+  </tr>
+  <tr>
+    <td><strong>Desafío Técnico</strong></td>
+    <td>Evalúa tus habilidades técnicas, incluyendo la codificación y la estructuración de proyectos.</td>
+  </tr>
+  <tr>
+    <td><strong>Entrevista Técnica</strong></td>
+    <td>Evalúa conocimientos teóricos y prácticos, experiencias vividas, tu manera de abordar escenarios y situaciones faciles o complejas.</td>
+  </tr>
+  <tr>
+    <td><strong>Entrevista de Comportamiento</strong></td>
+    <td>Analiza tu comportamiento, adaptabilidad y si encajas con los valores de la empresa.</td>
+  </tr>
+</table>
 
-## RRHH Interview
-### Mis preguntas al entrevistador:
+### 👥 RRHH Interview
+
+#### Mis preguntas al entrevistador:
+
 | Preguntas                                                                                       |
 |------------------------------------------------------------------------------------------------|
 | ¿Cómo es el proceso?                                                                           |
@@ -59,54 +93,78 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 | ¿Cuáles son las skills más importantes para tener éxito en este puesto?                        |
 | ¿Puede darme más información sobre las áreas en las que se centran las entrevistas?            |
 
+#### Preguntas del entrevistador:
 
+<table>
+  <tr>
+    <th>Categoría</th>
+    <th>Preguntas</th>
+  </tr>
+  <tr>
+    <td><strong>Motivación</strong></td>
+    <td>
+      <ul>
+        <li>¿Por qué nuestra empresa?</li>
+        <li>¿Por qué quiere este trabajo?</li>
+        <li>¿Dónde te ves dentro de 5 años?</li>
+        <li>¿Por qué deberíamos contratarte?</li>
+        <li>¿Qué le motiva?</li>
+        <li>¿Por qué deja su puesto actual?</li>
+        <li>¿Qué buscas en tu próximo puesto?</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Personal</strong></td>
+    <td>
+      <ul>
+        <li>Háblame de vos (céntrate en lo que le interesa al entrevistador).</li>
+        <li>Hábleme de su experiencia profesional.</li>
+        <li>¿Podría describir lo que hace en su trabajo actual con un poco más de profundidad?</li>
+        <li>Me gustaría saber si tiene experiencia trabajando con profesionales de USA.</li>
+        <li>Hábleme de sus puntos fuertes y débiles.</li>
+        <li>Cuéntame algo sobre ti que no aparezca en tu currículum.</li>
+        <li>Háblame de tus aficiones.</li>
+        <li>¿Cuál es la parte favorita de su trabajo?</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Comportamiento</strong></td>
+    <td>
+      <ul>
+        <li>Cuéntame una ocasión en la que no cumpliste un plazo.</li>
+        <li>Hábleme de una ocasión en la que tuvo que dar un feedback difícil.</li>
+        <li>Describa un conflicto que haya tenido en el trabajo.</li>
+        <li>¿Cómo maneja el estrés?</li>
+        <li>¿Cuándo fue la última vez que tuvo un conflicto con un compañero y cómo lo resolvió?</li>
+        <li>¿Cómo crees que puedes trabajar bajo presión?</li>
+        <li>Cuénteme alguna vez que haya tenido que dar un feedback difícil.</li>
+        <li>Hábleme de una ocasión en la que recibió un feedback constructivo.</li>
+        <li>Cuénteme una ocasión en la que haya fracasado.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Preguntas del entrevistador:
-| Categoría          | Preguntas                                                                                     |
-|--------------------|----------------------------------------------------------------------------------------------|
-| **Motivación**     | - ¿Por qué nuestra empresa?                                                                  |
-|                    | - ¿Por qué quiere este trabajo?                                                              |
-|                    | - ¿Dónde te ves dentro de 5 años?                                                            |
-|                    | - ¿Por qué deberíamos contratarte?                                                           |
-|                    | - ¿Qué le motiva?                                                                            |
-|                    | - ¿Por qué deja su puesto actual?                                                            |
-|                    | - ¿Qué buscas en tu próximo puesto?                                                          |
-|                    |                                                                                              |
-| **Personal**       | - Háblame de vos (céntrate en lo que le interesa al entrevistador).                          |
-|                    | - Hábleme de su experiencia profesional.                                                      |
-|                    | - ¿Podría describir lo que hace en su trabajo actual con un poco más de profundidad?         |
-|                    | - Me gustaría saber si tiene experiencia trabajando con profesionales de USA.                |
-|                    | - Hábleme de sus puntos fuertes y débiles.                                                    |
-|                    | - Cuéntame algo sobre ti que no aparezca en tu currículum.                                    |
-|                    | - Háblame de tus aficiones.                                                                   |
-|                    | - ¿Cuál es la parte favorita de su trabajo?                                                   |
-|                    |                                                                                              |
-| **Comportamiento** | - Cuéntame una ocasión en la que no cumpliste un plazo.                                      |
-|                    | - Hábleme de una ocasión en la que tuvo que dar un feedback difícil.                          |
-|                    | - Describa un conflicto que haya tenido en el trabajo.                                        |
-|                    | - ¿Cómo maneja el estrés?                                                                     |
-|                    | - ¿Cuándo fue la última vez que tuvo un conflicto con un compañero y cómo lo resolvió?       |
-|                    | - ¿Cómo crees que puedes trabajar bajo presión?                                               |
-|                    | - Cuénteme alguna vez que haya tenido que dar un feedback difícil.                            |
-|                    | - Hábleme de una ocasión en la que recibió un feedback constructivo.                          |
-|                    | - Cuénteme una ocasión en la que haya fracasado.                                              |
+### 💻 Desafío Técnico
 
+#### Probablemente un Proyecto o Pair Programming
 
-
-## Desafío Técnico
-### Probablemente un Proyecto o Pair Programming
-    
 | Recurso       | Descripción |
 |---------------|-------------|
 | **Freecodecamp** | [Aprende estructuras de datos y algoritmos](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/) |
 | **Práctica** | Puedes practicar en: [LeetCode](https://leetcode.com/explore/), [Codewars](https://www.codewars.com/), [Hackerrank](https://www.hackerrank.com/), [EditorJS](https://www.programiz.com/javascript/online-compiler/?utm_source=compiler-output-popup&utm_campaign=programiz&utm_medium=referral) |
 | **Canales de Youtube** | Estructura de datos: [Sahil](https://www.youtube.com/watch?v=s2mYsPWzLjg&t=4s&ab_channel=Sahil%26Sarra), [NeetCode](https://www.youtube.com/watch?v=ft0owvS5tQA&ab_channel=NeetCode) |
 
-    
-## Entrevista Técnica
-### Manual Testing + Behavioural + Automation
-### Manual
-#### Definiciones
+### 🛠️ Entrevista Técnica
+
+#### Manual Testing + Behavioural + Automation
+
+#### Manual
+
+##### Definiciones
+
 | Término | Pregunta |
 |---------|----------|
 | Caja negra | ¿Qué es caja negra? Explicar con ejemplos. |
@@ -117,14 +175,16 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 | Pruebas de humo | ¿En qué consisten las pruebas de humo y cuál es su importancia? |
 | Pruebas exploratorias | ¿Qué son las pruebas exploratorias y cómo se realizan? |
 
-#### Técnicas de Testing (Black-Box)
+##### Técnicas de Testing (Black-Box)
+
 | Técnica | Pregunta |
 |---------|----------|
 | Particionamiento por equivalencia | ¿Qué es el particionamiento por equivalencia y cómo se aplica? |
 | Valor límite | ¿Cómo se realiza el análisis de valor límite en las pruebas? |
 | Tablas de decisión | ¿Qué son las tablas de decisión y en qué casos se utilizan? |
 
-### Teórico
+#### Teórico
+
 | Concepto | Pregunta |
 |----------|----------|
 | Testing | ¿Qué es el testing en el desarrollo de software y por qué es necesario? |
@@ -149,15 +209,10 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 | Ciclo de Vida de Pruebas de Software | ¿Cuáles son las fases del ciclo de vida de pruebas de software? |
 | Verificación vs Validación | ¿Cuál es la diferencia entre verificación y validación en el contexto del testing? |
 | Diferencia entre Retesting y Regresión | ¿Cómo se diferencian el retesting de la regresión? |
-| Estructura de un Reporte de Bug | ¿Qué información debe contener un reporte de bug efectivo? |
-| ¿En qué etapa debería comenzar el testing? | ¿Por qué es importante iniciar el testing temprano en el desarrollo de software? |
-| Tipos de pruebas conocidos | ¿Qué tipos de pruebas has realizado y cuáles recomiendas? |
-| Cómo comenzar un proyecto de prueba desde cero | ¿Cuáles son los primeros pasos para establecer un proyecto de prueba desde cero? |
-
-
-*Descripción: Cobertura teórica exhaustiva sobre los aspectos esenciales del testing de software, desde definiciones básicas hasta metodologías y herramientas avanzadas.*
+| Estructura de un Reporte de Bug | ¿Qué información debe contener un reporte
 
 #### Behavior - Behavioural
+
 | Pregunta |
 |----------|
 | ¿Cómo te aseguras de que un error encontrado en producción no se reintroduzca? |
@@ -177,9 +232,10 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 
 *Descripción: Preguntas orientadas a evaluar la capacidad de resolución de problemas, conocimientos prácticos, y experiencia en escenarios de testing reales y teóricos.*
 
-## Automation
+### 🤖 Automation
 
-### Entrevista sobre Frameworks de Automatización
+#### Entrevista sobre Frameworks de Automatización
+
 | Tema | Pregunta |
 |------|----------|
 | Programación Orientada a Objetos | ¿Qué es la Programación Orientada a Objetos y cómo se aplica en la automatización de pruebas? |
@@ -198,8 +254,7 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 | Public, private y protected | ¿Cuál es la diferencia entre los modificadores de acceso public, private y protected en la programación orientada a objetos? |
 | Cantidad de automatización de casos de prueba | ¿Cuántos casos de prueba has automatizado en tu proyecto actual / cuántos tiene tu suite de regresión? |
 
-
-## Entrevista de Comportamiento
+## 🗣️ Entrevista de Comportamiento
 
 ### Preguntas sobre el trabajo en equipo y la colaboración
 
@@ -216,7 +271,7 @@ El trabajo en equipo es una parte integral del proceso de desarrollo. Los líder
 | ¿Ha fracasado su equipo en algún proyecto importante? En caso afirmativo, ¿cómo lo solucionó? | Esta pregunta busca comprender cómo afrontas los fracasos en equipo y cómo trabajas para superarlos y aprender de ellos. |
 | **¿Se ha encontrado en una situación en la que un miembro de su equipo haya sido negligente y mentiroso? ¿Repercutió en los resultados del proyecto? ¿Cómo abordó la situación?** | Esta pregunta evalúa cómo manejas situaciones difíciles relacionadas con la integridad y el rendimiento del equipo, y cómo abordas tales problemas para mantener la colaboración y la productividad. |
 
-## Preguntas sobre el balance entre lo laboral y familiar
+### Preguntas sobre el balance entre lo laboral y familiar
 
 Equilibrar el trabajo y la vida personal es crucial para la salud mental y la productividad. Lograr un equilibrio adecuado entre la vida laboral y personal puede reportar una serie de beneficios que van desde la serenidad y la calma hasta la agudeza mental y la mejora en la toma de decisiones.
 
@@ -229,7 +284,7 @@ Equilibrar el trabajo y la vida personal es crucial para la salud mental y la pr
 | ¿Cómo gestiona el aburrimiento y la monotonía en el trabajo? | Aquí se evalúa tu capacidad para manejar situaciones de aburrimiento y monotonía en el trabajo y cómo afecta esto al equilibrio entre el trabajo y la vida personal. |
 | ¿Qué opina de la salud mental? ¿Qué importancia cree que tiene a la hora de influir en la productividad laboral y el equilibrio en la vida? | Se busca comprender tu percepción sobre la importancia de la salud mental en el trabajo y cómo esta influye en el equilibrio entre la vida laboral y personal. |
 
-## Preguntas sobre el trato con los clientes/stakeholders
+### Preguntas sobre el trato con los clientes/stakeholders
 
 Los puestos de cara al cliente requieren sólidas habilidades de comunicación, compostura y la capacidad de impulsar el compromiso con el cliente. En las empresas Top, suelen ser las funciones de desarrollador senior las que implican comprender, planificar y ejecutar los requisitos del cliente.
 
@@ -240,8 +295,7 @@ Los puestos de cara al cliente requieren sólidas habilidades de comunicación, 
 | ¿Cuál es la forma ideal de mantener un buen equilibrio entre la vida laboral y personal? | Se busca comprender tu visión sobre cómo lograr un equilibrio entre el trabajo y la vida personal y qué estrategias consideras más efectivas. |
 | ¿Se ha estresado por la entrega de algún proyecto en el pasado? ¿Afectó a su conciliación? ¿Cómo lo solucionó? | Esta pregunta evalúa cómo manejas el estrés laboral y cómo afecta este al equilibrio entre el trabajo y la vida personal, así como tus estrategias para abordar esta situación. |
 | ¿Qué opina de las vacaciones y de su influencia en la conciliación de la vida laboral y familiar? | Se busca conocer tu opinión sobre la importancia de las vacaciones en el equilibrio entre el trabajo y la vida personal y cómo afectan esto a tu rendimiento laboral. |
-
-## Preguntas sobre las relaciones con jefes y superiores
+### Preguntas sobre las relaciones con jefes y superiores
 
 Mantener relaciones cordiales con los superiores influye considerablemente en la curva de aprendizaje y en las perspectivas profesionales futuras.
 
@@ -254,7 +308,7 @@ Mantener relaciones cordiales con los superiores influye considerablemente en la
 | ¿Cuál es la mejor manera de mantener una buena relación con tus superiores/directivos en el trabajo? | Se busca conocer tus estrategias para mantener una relación positiva y productiva con tus superiores en el lugar de trabajo. |
 | ¿Ha habido alguna vez en la que se haya pasado por alto tu contribución y otra persona de tu equipo se haya llevado el mérito? ¿Cómo lo solucionaste? | Esta pregunta evalúa cómo manejas situaciones en las que no se reconoce tu contribución y cómo abordas los desafíos para resolver esta situación. |
 
-## Preguntas sobre la adaptabilidad
+### Preguntas sobre la adaptabilidad
 
 La adaptabilidad consiste básicamente en adaptarse a las exigencias que plantean los nuevos proyectos. Estas son algunas de las preguntas que puede esperar:
 
@@ -266,7 +320,7 @@ La adaptabilidad consiste básicamente en adaptarse a las exigencias que plantea
 | ¿Qué has aprendido de proyectos difíciles en el pasado? ¿Ha cambiado algo en ti? | Se busca conocer las lecciones que has aprendido de proyectos difíciles en el pasado y cómo estas experiencias han influido en tu desarrollo profesional y personal. |
 | ¿Has tomado la iniciativa en algún proyecto? Cuéntenos lo que ha aprendido y cómo lo ha transmitido a su equipo. | Esta pregunta evalúa tu capacidad para tomar la iniciativa en proyectos y cómo compartes tus conocimientos y experiencias con tu equipo para lograr los objetivos del proyecto. |
 
-## Preguntas específicas sobre la empresa
+### Preguntas específicas sobre la empresa
 
 | Pregunta | Descripción |
 |----------|-------------|
@@ -275,9 +329,9 @@ La adaptabilidad consiste básicamente en adaptarse a las exigencias que plantea
 | ¿Qué retos prevé para la empresa en el futuro? | Se busca conocer tus perspectivas sobre los desafíos que enfrenta la empresa en el futuro y cómo podrías contribuir a superarlos. |
 | ¿Qué opina de la diversidad y la inclusión en el lugar de trabajo? | Esta pregunta evalúa tu percepción sobre la importancia de la diversidad y la inclusión en el lugar de trabajo y cómo crees que pueden contribuir al éxito de la empresa. |
 
+## 🏆 Consejos para Entrevistas
 
-## Consejos para Entrevistas
-## Consejos para Entrevistas Virtuales
+### 🖥️ Consejos para Entrevistas Virtuales
 
 | Punto | Descripción |
 |-------|-------------|
@@ -292,11 +346,10 @@ La adaptabilidad consiste básicamente en adaptarse a las exigencias que plantea
 | Uso de notas adhesivas | Considera tener notas adhesivas pegadas en la pared cerca de tu espacio de entrevista como recordatorio de puntos importantes o datos relevantes que desees mencionar durante la conversación. |
 | Narración efectiva de tu historia laboral | Sé hábil al contar tu historia laboral y al responder preguntas como "Contame de vos y de tu trabajo actual", destacando tus logros y habilidades relevantes para el puesto. |
 
-## Recursos y Enlaces Útiles
-- [Glassdoor](https://www.glassdoor.com/index.htm) para investigar preguntas de entrevistas específicas de la empresa.
+## 🔗 Recursos y Enlaces Útiles
+- [Glassdoor](https://www.glassdoor.com/index.htm) para investigar sobre la empresa.
 
-<a name="Contribuir"></a>
-# Contribuir ![Github](https://github.com/Nicolopez603/recursos-testing/blob/main/assets/github.png "Github")
+## 🤝 Contribuir
 
 ### ¡Sus contribuciones son siempre bienvenidas!
 
@@ -340,7 +393,7 @@ La adaptabilidad consiste básicamente en adaptarse a las exigencias que plantea
 
 -----------------------------------------------
 
-## Expresiones de Gratitud 🎁
+## 🙏 Expresiones de Gratitud
 
 * Comenta a otros sobre este proyecto 📢
 * Invita un café ☕ o Mate a alguien del equipo ^-^ .
@@ -353,4 +406,3 @@ Hecho con ❤️ para ustedes =)
 Contacto:
 - [Twitter](https://twitter.com/nicomlopez "Twitter")
 - [Linkedin](https://www.linkedin.com/in/nicolaslopezqa/ "Linkedin")
-
