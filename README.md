@@ -105,7 +105,7 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 - **Práctica**: Puedes practicar en: [LeetCode](https://leetcode.com/explore/), [Codewars](https://www.codewars.com/), [Hackerrank](https://www.hackerrank.com/), [EditorJS](https://www.programiz.com/javascript/online-compiler/?utm_source=compiler-output-popup&utm_campaign=programiz&utm_medium=referral)
 - **Canales de Youtube**: Estructura de datos: [Sahil](https://www.youtube.com/watch?v=s2mYsPWzLjg&t=4s&ab_channel=Sahil%26Sarra), [NeetCode](https://www.youtube.com/watch?v=ft0owvS5tQA&ab_channel=NeetCode)
 - **Si es un proyecto en Automation:** Lo principal es tener bien estructurado el proyecto, generando una buena arquitectura, codigo simple y un buen Readme explicando como se llevo a cabo el proceso. Generalmente se desvaloriza el Readme pero es un imprecindible.
-
+- **Si es un proyecto testeando Manual:** Se valora mucho tu razonamiento, la forma de llevar el testeo en si, la forma de documentar y la manera en la que es facil de entender los casos de prueba.
   
 --------
 
@@ -279,8 +279,16 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 ## 🔗 Recursos y Enlaces Útiles
 
 - [Glassdoor](https://www.glassdoor.com/index.htm) <img src="https://img.icons8.com/material-outlined/24/000000/external-link.png" alt="Icono de Enlace Externo" width="20" height="20"/>: Para investigar preguntas de entrevistas específicas de la empresa.
--  [Google Interview Question ](https://grow.google/certificates/interview-warmup/) <img src="https://img.icons8.com/material-outlined/24/000000/external-link.png" alt="Icono de Enlace Externo" width="20" height="20"/>: Para investigar preguntas de entrevistas específicas de la empresa.
--  [Como ganar en las entrevistas laborales - Spotify ](https://open.spotify.com/episode/07Q7C1Ci5hELIJSg2D5DYD?si=df155959e6d54d82) <img src="https://img.icons8.com/material-outlined/24/000000/external-link.png" alt="Icono de Enlace Externo" width="20" height="20"/>: Para investigar preguntas de entrevistas específicas de la empresa.
+-  [Google Interview Question ](https://grow.google/certificates/interview-warmup/) <img src="https://img.icons8.com/material-outlined/24/000000/external-link.png" alt="Icono de Enlace Externo" width="20" height="20"/>: Recurso especialmente creado para entrevistas donde podes practicar, super recomendable.
+-  [Como ganar en las entrevistas laborales - Spotify ](https://open.spotify.com/episode/07Q7C1Ci5hELIJSg2D5DYD?si=df155959e6d54d82) <img src="https://img.icons8.com/material-outlined/24/000000/external-link.png" alt="Icono de Enlace Externo" width="20" height="20"/>: Podcast orientado a las entrevistas.
+-  [Tips si trabajas remoto - Github ](https://github.com/lenazun/working-remotely/blob/master/ideas.md) <img src="https://img.icons8.com/material-outlined/24/000000/external-link.png" alt="Icono de Enlace Externo" width="20" height="20"/>: Repositorio con informacion super relevante cuando trabajas remoto.
+-  [Repositorio super util con diferentes tecnologias orientadas a Testing - Github ](https://github.com/mfaisalkhatri/awesome-learning) <img src="https://img.icons8.com/material-outlined/24/000000/external-link.png" alt="Icono de Enlace Externo" width="20" height="20"/>:
+
+- https://github.com/alinebastos/remote
+- https://github.com/remote-es/remotes
+- https://github.com/hugo53/awesome-RemoteWork
+- https://github.com/engineerapart/TheRemoteFreelancer
+
 
 
 --------
@@ -331,4 +339,4 @@ Contacto:
 - [Linkedin](https://www.linkedin.com/in/nicolaslopezqa/ "Linkedin")
 
 Si te interesa más contenido 
-<br />  <a href="#https://www.linkedin.com/feed/update/urn:li:activity:6925900191304671233/"><strong>Explora mas contenido »</strong></a><br/> <br />
+- [Repositorios](https://www.linkedin.com/feed/update/urn:li:activity:6925900191304671233/ "Repositorio en Linkedin") 
