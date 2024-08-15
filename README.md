@@ -1,7 +1,6 @@
-
 <p align="center">
 <h1 align="center">Guía para tus entrevistas en Software</h1>
- <p align="center">
+<p align="center">
  
 
 ![Entrevista de Software](https://images.unsplash.com/photo-1565688534245-05d6b5be184a?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
@@ -30,17 +29,14 @@ Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
 Secciones en el Documento:
 
 
-<h2 id="introduccion">Introducción</h2>
+<h2 id="introduccion">🚀  Introducción</h2>
 <p>Proporciona un resumen del documento y establece las expectativas.</p>
 
-## 🚀  Introducción
 Es necesario comprender que cada entrevista tiene su alcance y propósito específico. Estar preparado de manera práctica, mental y teóricamente es la clave para superar el proceso de entrevista, ser bueno en las entrevistas es un skill más.
 
 
-<h2 id="proceso-de-entrevistas">Proceso de Entrevistas</h2>
+<h2 id="proceso-de-entrevistas">📝 Proceso de Entrevistas</h2>
 <p>Explica las diferentes etapas del proceso de entrevistas y qué esperar en cada una.</p>
-
-## 📝 Proceso de Entrevistas
 
 El proceso de entrevistas puede dividirse en cuatro o más secciones principales, en este caso veremos:
 
@@ -52,10 +48,8 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 
 --------
 
-<h2 id="rrhh-interview">RRHH Interview</h2>
+<h2 id="rrhh-interview">👥 Entrevista con RRHH</h2>
 <p>Describe la entrevista inicial con Recursos Humanos para conocer al candidato y verificar su información de currículum.</p>
-
-### 👥 Entrevista con RRHH
 
 #####  Tip: Puedes elegir dos o tres preguntas por cada sección y practicarlas, las que están marcadas con un * son las que recomiendo, pero esto varia de cada quien.
 
@@ -104,10 +98,8 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 
 --------
 
-<h2 id="desafio-tecnico">Desafío Técnico</h2>
+<h2 id="desafio-tecnico">💻 Desafío Técnico</h2>
 <p>Detalla el desafío técnico para evaluar las habilidades prácticas de codificación y resolución de problemas del candidato.</p>
-
-### 💻 Desafío Técnico
 
 #### Probablemente un Proyecto o Pair Programming
 
@@ -119,10 +111,8 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
   
 --------
 
-<h2 id="entrevista-tecnica">Entrevista Técnica</h2>
+<h2 id="entrevista-tecnica">🛠️ Entrevista Técnica</h2>
 <p>Explica la entrevista centrada en conocimientos técnicos específicos, experiencia y cómo el candidato aborda problemas técnicos.</p>
-
-### 🛠️ Entrevista Técnica
 
 #### Manual Testing + Comportamiento + Automation
 
@@ -216,10 +206,8 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 
 --------
 
-<h2 id="entrevista-de-comportamiento">Entrevista de Comportamiento</h2>
+<h2 id="entrevista-de-comportamiento">👥 Entrevista de Comportamiento</h2>
 <p>Examina la adaptabilidad del candidato, comportamiento y si sus valores coinciden con los de la empresa.</p
-
-## 👥 Entrevista de Comportamiento
 
 ### Preguntas sobre el trabajo en equipo y la colaboración
 
@@ -276,11 +264,8 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 
 --------
 
-<h2 id="consejos-para-entrevistas">Consejos para Entrevistas</h2>
+<h2 id="consejos-para-entrevistas">📝 Consejos para  el dia de la Entrevista</h2>
 <p>Ofrece sugerencias y estrategias para tener éxito en las entrevistas.</p>
-
-
-## 📝 Consejos para  el dia de la Entrevista
 
 - Puntualidad: La puntualidad es crucial, especialmente en entrevistas internacionales. Es recomendable estar listo al menos 10 minutos antes, y en caso de un posible retraso, notificarlo con anticipación.
 
@@ -303,11 +288,8 @@ Sé hábil al contar tu historia laboral y al responder preguntas como "Contame 
 
 --------
 
-<h2 id="recursos-y-enlaces-utiles">Recursos y Enlaces Útiles</h2>
+<h2 id="recursos-y-enlaces-utiles">🔗 Recursos y Enlaces Útiles</h2>
 <p>Proporciona enlaces a recursos adicionales para preparación de entrevistas y desarrollo profesional.</p>
-
-
-## 🔗 Recursos y Enlaces Útiles
 
 - [Glassdoor](https://www.glassdoor.com/index.htm): Para investigar informacion o preguntas de entrevistas específicas de la empresa.
 -  [Google Interview Question ](https://grow.google/certificates/interview-warmup/): Recurso especialmente creado para entrevistas donde podes practicar, super recomendable.
