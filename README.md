@@ -5,13 +5,19 @@
 
 ![Entrevista de Software](https://images.unsplash.com/photo-1565688534245-05d6b5be184a?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-El objetivo principal de este repositorio es **compartir** el material para la investigación y aprendizaje, se va a ir actualizando a medida que se encuentre más información y/o quieran aportar respectivamente. El material se divide en ESP (Español) y ENG. (English)
-
-Finalmente: Estoy seguro de que tod@s las personas que se encuentren con este repositorio tienen algo que quieren aportar. ¡Lea la última sección sobre **Cómo contribuir** y siéntase libre de agregar a la lista lo que desee!
-
-Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
+El objetivo principal de este repositorio es **compartir** el material para la investigación y aprendizaje, se va a ir actualizando a medida que se encuentre más información y/o quieran aportar respectivamente.
 
 **Notion** por si gustan verlo por allí: [Entrevista-101](https://apuntesdenico.notion.site/Interview-ESP-VERSION-cf6335b82ffa4c5cba8f8989993a007e "Entrevista-101") 
+
+**Es importante mencionar que**: El documento sigue este orden ya que este es el orden promedio que se lleva en un proceso de entrevistas. 
+1. RRHH
+2. Si existe, aca puede ser tanto un challenge para que resuelvas o unos ejercicios al estilo LeetCode de Codificacion, sino es a la 3ra directamente.
+3. Entrevista tecnica de conceptos, conocimiento como tambien de /experiencias/retos que surgieron en el trabajo.
+4. Entrevista de comportamiento, esta puede ser con el equipo de People o con un Lider del equipo, quiere asegurarse que seas un buen match con el perfil, y que no vayas a modificar negativamente el estado del equipo actual. En este documento se te va a preparar para cada una de ellas
+
+**Finalmente**: Estoy seguro de que tod@s las personas que se encuentren con este repositorio tienen algo que quieren aportar. ¡Lea la última sección sobre **Cómo contribuir** y siéntase libre de agregar a la lista lo que desee!
+
+Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
 
 ## Tabla de Contenido 
 
@@ -26,8 +32,6 @@ Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
 | [Consejos para Entrevistas](#consejos-para-entrevistas) | Ofrece sugerencias y estrategias para tener éxito en las entrevistas. |
 | [Recursos y Enlaces Útiles](#recursos-y-enlaces-utiles) | Proporciona enlaces a recursos adicionales para preparación de entrevistas y desarrollo profesional. |
 
-Secciones en el Documento:
-
 
 <h2 id="introduccion">🚀  Introducción</h2>
 <p>Proporciona un resumen del documento y establece las expectativas.</p>
@@ -38,13 +42,10 @@ Es necesario comprender que cada entrevista tiene su alcance y propósito espec�
 <h2 id="proceso-de-entrevistas">📝 Proceso de Entrevistas</h2>
 <p>Explica las diferentes etapas del proceso de entrevistas y qué esperar en cada una.</p>
 
-El proceso de entrevistas puede dividirse en cuatro o más secciones principales, en este caso veremos:
-
 - **Entrevista con RRHH**: Su objetivo es conocerte y validar la información de tu currículum.
 - **Desafío Técnico**: Evalúa tus habilidades técnicas, incluyendo la codificación y la estructuración de proyectos.
 - **Entrevista Técnica**: Evalúa conocimientos teóricos y prácticos, experiencias vividas y cómo abordas escenarios y situaciones.
 - **Entrevista de Comportamiento**: Analiza tu comportamiento, adaptabilidad y si encajas con los valores de la empresa.
-
 
 --------
 
@@ -292,7 +293,7 @@ Sé hábil al contar tu historia laboral y al responder preguntas como "Contame 
 <p>Proporciona enlaces a recursos adicionales para preparación de entrevistas y desarrollo profesional.</p>
 
 - [Glassdoor](https://www.glassdoor.com/index.htm): Para investigar informacion o preguntas de entrevistas específicas de la empresa.
--  [Google Interview Question ](https://grow.google/certificates/interview-warmup/): Recurso especialmente creado para entrevistas donde podes practicar, super recomendable.
+-  [Google Interview Question ](https://grow.google/certificates/interview-warmup/): Recurso especialmente creado para entrevistas donde podes practicar, super recomendable. (En ingles)
 -  [Como ganar en las entrevistas laborales - Spotify ](https://open.spotify.com/episode/07Q7C1Ci5hELIJSg2D5DYD?si=df155959e6d54d82): Podcast orientado a las entrevistas.
 -  [Working Remotely ](https://github.com/lenazun/working-remotely/blob/master/ideas.md): Tips si trabajas remoto
 -  [Awesome Learning](https://github.com/mfaisalkhatri/awesome-learning): Repositorio super util con diferentes tecnologias orientadas a Testing
