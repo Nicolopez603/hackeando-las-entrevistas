@@ -263,33 +263,39 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 
 ## 📝 Consejos para  el dia de la Entrevista
 
-- Fondo de cámara sin distracciones
-- Vaso de agua
-- Vestimenta apropiada
-- Preparación de preguntas para el entrevistador: Prepárate con anticipación para formular preguntas relevantes al entrevistador sobre la empresa y el puesto, demostrando interés y conocimiento.
-- Respeto por las pausas: Evita hablar en exceso y respeta las pausas durante la conversación. Es preferible ser claro y conciso en tus respuestas en lugar de extenderlas demasiado. 
-- Investigación sobre la empresa: Infórmate sobre la empresa, sus valores y su mercado objetivo antes de la entrevista. Esta información te ayudará a mostrar un interés genuino y a adaptar tus respuestas de manera más efectiva. 
-- Uso de notas adhesivas: Considera tener notas adhesivas pegadas en la pared cerca de tu espacio de entrevista como recordatorio de puntos importantes o datos relevantes que desees mencionar durante la conversación.
-- Narración efectiva de tu historia laboral: Sé hábil al contar tu historia laboral y al responder preguntas como "Contame de vos y de tu trabajo actual", destacando tus logros y habilidades relevantes para el puesto (Podrias averiguar sobre Story-telling).
+- Puntualidad: La puntualidad es crucial, especialmente en entrevistas internacionales. Es recomendable estar listo al menos 10 minutos antes, y en caso de un posible retraso, notificarlo con anticipación.
 
+- Fondo de cámara sin distracciones y un vaso de agua.
+
+- Preparación de preguntas para el entrevistador: 
+Prepárate con anticipación para formular preguntas relevantes al entrevistador sobre la empresa y el puesto, demostrando interés y conocimiento (Esto suma bastante si haces las preguntas correctas).
+
+- Respeto por las pausas: 
+Evita hablar en exceso y respeta las pausas durante la conversación. Es preferible ser claro y conciso en tus respuestas en lugar de extenderlas demasiado. 
+
+- Volve a repasar la descripcion del puesto: 
+Saber que skills hacen match realmente y explotar eso podria darte un plus. Si no sabes una tecnologia, investigala en youtube aunque sea 10 minutos. Por ej: Si el puesto pide conocimientos en react o vue.js investiga que es React, con un video corto podes responder que no sabes en profundidad pero que investigaste por arriba 
+
+- Uso de notas adhesivas: 
+Considera tener notas adhesivas pegadas en la pared cerca de tu espacio de entrevista como recordatorio de puntos importantes o datos relevantes que desees mencionar durante la conversación.
+
+- Narración efectiva de tu historia laboral: 
+Sé hábil al contar tu historia laboral y al responder preguntas como "Contame de vos y de tu trabajo actual", destacando tus logros y habilidades relevantes para el puesto. Generalmente se hace de atras para adelante (Del mas viejo al mas actual) Tenes que ser resumido en cada job y contar en lo que más impactaste en tu trabajo. Por ej: Creamos una feature de 2FA en un banco que con eso los clientes tenian que ingresar un token que les llegaba por mensaje para cada transaccion, esa implementacion fue un antes y despues en el banco(Podrias averiguar sobre Story-telling).
 
 --------
 
 
 ## 🔗 Recursos y Enlaces Útiles
 
-- [Glassdoor](https://www.glassdoor.com/index.htm) <img src="https://img.icons8.com/material-outlined/24/000000/external-link.png" alt="Icono de Enlace Externo" width="20" height="20"/>: Para investigar preguntas de entrevistas específicas de la empresa.
--  [Google Interview Question ](https://grow.google/certificates/interview-warmup/) <img src="https://img.icons8.com/material-outlined/24/000000/external-link.png" alt="Icono de Enlace Externo" width="20" height="20"/>: Recurso especialmente creado para entrevistas donde podes practicar, super recomendable.
--  [Como ganar en las entrevistas laborales - Spotify ](https://open.spotify.com/episode/07Q7C1Ci5hELIJSg2D5DYD?si=df155959e6d54d82) <img src="https://img.icons8.com/material-outlined/24/000000/external-link.png" alt="Icono de Enlace Externo" width="20" height="20"/>: Podcast orientado a las entrevistas.
--  [Tips si trabajas remoto - Github ](https://github.com/lenazun/working-remotely/blob/master/ideas.md) <img src="https://img.icons8.com/material-outlined/24/000000/external-link.png" alt="Icono de Enlace Externo" width="20" height="20"/>: Repositorio con informacion super relevante cuando trabajas remoto.
--  [Repositorio super util con diferentes tecnologias orientadas a Testing - Github ](https://github.com/mfaisalkhatri/awesome-learning) <img src="https://img.icons8.com/material-outlined/24/000000/external-link.png" alt="Icono de Enlace Externo" width="20" height="20"/>:
-
-- https://github.com/alinebastos/remote
-- https://github.com/remote-es/remotes
-- https://github.com/hugo53/awesome-RemoteWork
-- https://github.com/engineerapart/TheRemoteFreelancer
-
-
+- [Glassdoor](https://www.glassdoor.com/index.htm): Para investigar informacion o preguntas de entrevistas específicas de la empresa.
+-  [Google Interview Question ](https://grow.google/certificates/interview-warmup/): Recurso especialmente creado para entrevistas donde podes practicar, super recomendable.
+-  [Como ganar en las entrevistas laborales - Spotify ](https://open.spotify.com/episode/07Q7C1Ci5hELIJSg2D5DYD?si=df155959e6d54d82): Podcast orientado a las entrevistas.
+-  [Working Remotely ](https://github.com/lenazun/working-remotely/blob/master/ideas.md): Tips si trabajas remoto
+-  [Awesome Learning](https://github.com/mfaisalkhatri/awesome-learning): Repositorio super util con diferentes tecnologias orientadas a Testing
+- [Repositorio de empresas remotas ](https://github.com/alinebastos/remote)
+- [Repositorio de empresas remotas 2 ](https://github.com/remote-es/remotes)
+- [Repositorio de empresas remotas y toda informacion sobre el trabajo remoto, increible repositorio ](https://github.com/hugo53/awesome-RemoteWork)
+- [Repositorio acerca de trabajo freelance y empresas remotas](https://github.com/engineerapart/TheRemoteFreelancer)
 
 --------
 
