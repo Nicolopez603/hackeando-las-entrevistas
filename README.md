@@ -18,23 +18,27 @@ Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
 
 | Contenido | Propósito |
 |---------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| [Introducción](#introducción-) | Proporciona un resumen del documento y establece las expectativas. |
-| [Proceso de Entrevistas](#proceso-de-entrevistas-) | Explica las diferentes etapas del proceso de entrevistas y qué esperar en cada una. |
-|  [RRHH Interview](#-rrhh-interview) | Describe la entrevista inicial con Recursos Humanos para conocer al candidato y verificar su información de currículum. |
-|  [Desafío Técnico](#-desafío-técnico) | Detalla el desafío técnico para evaluar las habilidades prácticas de codificación y resolución de problemas del candidato. |
-|  [Entrevista Técnica](#-entrevista-técnica) | Explica la entrevista centrada en conocimientos técnicos específicos, experiencia y cómo el candidato aborda problemas técnicos. |
-|  [Entrevista de Comportamiento](#-entrevista-de-comportamiento) | Examina la adaptabilidad del candidato, comportamiento y si sus valores coinciden con los de la empresa. |
-| [Preguntas Frecuentes en Entrevistas](#preguntas-frecuentes-en-entrevistas) | Lista preguntas comunes hechas por entrevistadores para preparar mejor al candidato. |
-|  [Motivación](#motivación-) | Se enfoca en entender las razones del candidato para aplicar y sus aspiraciones a largo plazo. |
-|  [Personal](#personal-) | Aborda preguntas sobre la personalidad, experiencias y antecedentes del candidato. |
-|  [Comportamiento](#comportamiento-) | Evalúa cómo el candidato ha manejado situaciones pasadas para prever su comportamiento futuro. |
-| [Consejos para Entrevistas](#-consejos-para-entrevistas) | Ofrece sugerencias y estrategias para tener éxito en las entrevistas. |
-| [Recursos y Enlaces Útiles](#-recursos-y-enlaces-útiles) | Proporciona enlaces a recursos adicionales para preparación de entrevistas y desarrollo profesional. |
+| [Introducción](#introduccion) | Proporciona un resumen del documento y establece las expectativas. |
+| [Proceso de Entrevistas](#proceso-de-entrevistas) | Explica las diferentes etapas del proceso de entrevistas y qué esperar en cada una. |
+| [RRHH Interview](#rrhh-interview) | Describe la entrevista inicial con Recursos Humanos para conocer al candidato y verificar su información de currículum. |
+| [Desafío Técnico](#desafio-tecnico) | Detalla el desafío técnico para evaluar las habilidades prácticas de codificación y resolución de problemas del candidato. |
+| [Entrevista Técnica](#entrevista-tecnica) | Explica la entrevista centrada en conocimientos técnicos específicos, experiencia y cómo el candidato aborda problemas técnicos. |
+| [Entrevista de Comportamiento](#entrevista-de-comportamiento) | Examina la adaptabilidad del candidato, comportamiento y si sus valores coinciden con los de la empresa. |
+| [Consejos para Entrevistas](#consejos-para-entrevistas) | Ofrece sugerencias y estrategias para tener éxito en las entrevistas. |
+| [Recursos y Enlaces Útiles](#recursos-y-enlaces-utiles) | Proporciona enlaces a recursos adicionales para preparación de entrevistas y desarrollo profesional. |
 
+Secciones en el Documento:
+
+
+<h2 id="introduccion">Introducción</h2>
+<p>Proporciona un resumen del documento y establece las expectativas.</p>
 
 ## 🚀  Introducción
 Es necesario comprender que cada entrevista tiene su alcance y propósito específico. Estar preparado de manera práctica, mental y teóricamente es la clave para superar el proceso de entrevista, ser bueno en las entrevistas es un skill más.
 
+
+<h2 id="proceso-de-entrevistas">Proceso de Entrevistas</h2>
+<p>Explica las diferentes etapas del proceso de entrevistas y qué esperar en cada una.</p>
 
 ## 📝 Proceso de Entrevistas
 
@@ -47,6 +51,9 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 
 
 --------
+
+<h2 id="rrhh-interview">RRHH Interview</h2>
+<p>Describe la entrevista inicial con Recursos Humanos para conocer al candidato y verificar su información de currículum.</p>
 
 ### 👥 Entrevista con RRHH
 
@@ -97,6 +104,9 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 
 --------
 
+<h2 id="desafio-tecnico">Desafío Técnico</h2>
+<p>Detalla el desafío técnico para evaluar las habilidades prácticas de codificación y resolución de problemas del candidato.</p>
+
 ### 💻 Desafío Técnico
 
 #### Probablemente un Proyecto o Pair Programming
@@ -108,6 +118,9 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 - **Si es un proyecto testeando Manual:** Se valora mucho tu razonamiento, la forma de llevar el testeo en si, la forma de documentar y la manera en la que es facil de entender los casos de prueba.
   
 --------
+
+<h2 id="entrevista-tecnica">Entrevista Técnica</h2>
+<p>Explica la entrevista centrada en conocimientos técnicos específicos, experiencia y cómo el candidato aborda problemas técnicos.</p>
 
 ### 🛠️ Entrevista Técnica
 
@@ -203,6 +216,9 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 
 --------
 
+<h2 id="entrevista-de-comportamiento">Entrevista de Comportamiento</h2>
+<p>Examina la adaptabilidad del candidato, comportamiento y si sus valores coinciden con los de la empresa.</p
+
 ## 👥 Entrevista de Comportamiento
 
 ### Preguntas sobre el trabajo en equipo y la colaboración
@@ -260,6 +276,9 @@ El proceso de entrevistas puede dividirse en cuatro o más secciones principales
 
 --------
 
+<h2 id="consejos-para-entrevistas">Consejos para Entrevistas</h2>
+<p>Ofrece sugerencias y estrategias para tener éxito en las entrevistas.</p>
+
 
 ## 📝 Consejos para  el dia de la Entrevista
 
@@ -283,6 +302,9 @@ Considera tener notas adhesivas pegadas en la pared cerca de tu espacio de entre
 Sé hábil al contar tu historia laboral y al responder preguntas como "Contame de vos y de tu trabajo actual", destacando tus logros y habilidades relevantes para el puesto. Generalmente se hace de atras para adelante (Del mas viejo al mas actual) Tenes que ser resumido en cada job y contar en lo que más impactaste en tu trabajo. Por ej: Creamos una feature de 2FA en un banco que con eso los clientes tenian que ingresar un token que les llegaba por mensaje para cada transaccion, esa implementacion fue un antes y despues en el banco(Podrias averiguar sobre Story-telling).
 
 --------
+
+<h2 id="recursos-y-enlaces-utiles">Recursos y Enlaces Útiles</h2>
+<p>Proporciona enlaces a recursos adicionales para preparación de entrevistas y desarrollo profesional.</p>
 
 
 ## 🔗 Recursos y Enlaces Útiles
