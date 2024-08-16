@@ -287,6 +287,17 @@ Considera tener notas adhesivas pegadas en la pared cerca de tu espacio de entre
 - Narración efectiva de tu historia laboral: 
 Sé hábil al contar tu historia laboral y al responder preguntas como "Contame de vos y de tu trabajo actual", destacando tus logros y habilidades relevantes para el puesto. Generalmente se hace de atras para adelante (Del mas viejo al mas actual) Tenes que ser resumido en cada job y contar en lo que más impactaste en tu trabajo. Por ej: Creamos una feature de 2FA en un banco que con eso los clientes tenian que ingresar un token que les llegaba por mensaje para cada transaccion, esa implementacion fue un antes y despues en el banco(Podrias averiguar sobre Story-telling).
 
+- Uso de Inteligencia artificial para que te haga preguntas especificas respecto a ciertos temas, como por ej el uso de ChatGPT o Claude.AI:
+  Un Punto muy bueno es usarlo para que te diga las 30 preguntas más comunes de una herramienta, ej Cypress. Un buen uso de prompt es:
+(ROL) Actua como un Tester experto en Automation  
+(Contexto) Soy una persona que esta queriendo adquirir conocimiento en "Cypress" 
+(Instrucciones) Indicame las 30 preguntas mas comunes que tengo que tener en cuenta al tener una entrevista en automation especializandose en cypress
+(Formato) Quiero que devuelvas una tabla con cada uno de las preguntas y al lado su respuesta
+(Tono) Espero que tu respuesta sea optimista y motivados, reflejando tu experiencia y tu gran conocimiento en Automation y Cypress
+X = Tomate tu tiempo, responde paso a paso y hazlo con calma, esto es importante para mi 
+   
+
+
 --------
 
 <h2 id="recursos-y-enlaces-utiles">🔗 Recursos y Enlaces Útiles</h2>
