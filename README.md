@@ -29,6 +29,7 @@ Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
 | [Desafío Técnico](#desafio-tecnico) | Detalla el desafío técnico para evaluar las habilidades prácticas de codificación y resolución de problemas del candidato. |
 | [Entrevista Técnica](#entrevista-tecnica) | Explica la entrevista centrada en conocimientos técnicos específicos, experiencia y cómo el candidato aborda problemas técnicos. |
 | [Entrevista de Comportamiento](#entrevista-de-comportamiento) | Examina la adaptabilidad del candidato, comportamiento y si sus valores coinciden con los de la empresa. |
+| [Preguntas a realizar a la empresa](#tus-preguntas) | Qué preguntas clave puedes hacer para conocer mejor la empresa y el rol en específico |
 | [Consejos para Entrevistas](#consejos-para-entrevistas) | Ofrece sugerencias y estrategias para tener éxito en las entrevistas. |
 | [Recursos y Enlaces Útiles](#recursos-y-enlaces-utiles) | Proporciona enlaces a recursos adicionales para preparación de entrevistas y desarrollo profesional. |
 
@@ -38,6 +39,7 @@ Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
 
 Es necesario comprender que cada entrevista tiene su alcance y propósito específico. Estar preparado de manera práctica, mental y teóricamente es la clave para superar el proceso de entrevista, ser bueno en las entrevistas es un skill más.
 
+--------
 
 <h2 id="proceso-de-entrevistas">📝 Proceso de Entrevistas</h2>
 <p>Explica las diferentes etapas del proceso de entrevistas y qué esperar en cada una.</p>
@@ -262,6 +264,16 @@ Es necesario comprender que cada entrevista tiene su alcance y propósito espec�
 - ¿Qué retos prevé para la empresa en el futuro?
 - ¿Qué opina de la diversidad y la inclusión en el lugar de trabajo?
 
+--------
+
+<h2 id="tus-preguntas">🤔 Preguntas a realizar a la empresa. </h2>
+<p>Realiza preguntas en tu entrevista, para conocer mejor la empresa y el rol que se ofrece. Tus preguntas demuestran interés.</p>
+
+- ¿Podría describir el proceso típico de testing de software en la empresa?
+- ¿Qué herramientas y tecnologías de testing se utilizan aquí y cuál es su justificación?
+- ¿Cómo está estructurado el equipo de testing y cuál es el tamaño del mismo?
+- ¿Cuáles son los desafíos más comunes que enfrentan los testers en este entorno?
+- ¿Cómo es el día a día y en qué tipos de proyectos suelen trabajar?
 
 --------
 
